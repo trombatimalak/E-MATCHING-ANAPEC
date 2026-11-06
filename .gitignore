@@ -1,0 +1,20 @@
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Fichiers sensibles
+.env
+.env.*
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
