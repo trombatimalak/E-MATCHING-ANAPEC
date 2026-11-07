@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ematching-anapec"
+version = "0.1.0"
+description = "Prototype E-Matching candidat-offre (capstone ANAPEC)"
+requires-python = ">=3.11"
+dependencies = ["pandas", "numpy", "scikit-learn"]
+
+[project.optional-dependencies]
+dev = ["ruff", "black", "pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
