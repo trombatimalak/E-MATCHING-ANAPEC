@@ -1,0 +1,29 @@
+target_job,conceptUri,preferredLabel,n_skills
+developpeur,http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d,développeur de base de données/développeuse de base de données,116
+developpeur,http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1,développeur de logiciels/développeuse de logiciels,108
+developpeur,http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d,développeur web/développeuse web,103
+developpeur,http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c,développeur d’interface utilisateur/développeuse d’interface utilisatrice,98
+developpeur,http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135,développeur de systèmes informatiques/développeuse de systèmes informatiques,97
+comptable,http://data.europa.eu/esco/occupation/1ad59946-d13e-441e-9b36-56e1df055e21,auditeur comptable et financier/auditrice comptable et financière,60
+comptable,http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897,comptable,57
+comptable,http://data.europa.eu/esco/occupation/bfe142b9-a049-4d41-89c4-fd2f34ac56b6,assistant comptable/assistante comptable,40
+comptable,http://data.europa.eu/esco/occupation/caafca69-9faa-4850-8930-a3fa07fea4e6,expert-comptable/experte-comptable,39
+comptable,http://data.europa.eu/esco/occupation/78db356f-a96a-4456-ab29-2de62e52f830,agent comptable/agente comptable,28
+commercial,http://data.europa.eu/esco/occupation/544cd9cf-e2ee-4ac0-8a02-7147af6b97d7,responsable commercial/responsable commerciale,84
+commercial,http://data.europa.eu/esco/occupation/14031d4a-6e99-442f-b4fe-18262b6432b2,délégué commercial/déléguée commerciale,76
+commercial,http://data.europa.eu/esco/occupation/c956be07-53a3-4b01-b8f8-f0c5a428eaa8,attaché technico-commercial/attachée technico-commerciale,56
+commercial,http://data.europa.eu/esco/occupation/356227b9-2263-4dbd-81e9-7dfc6d3f3af7,agent de commercialisation en ligne,46
+commercial,http://data.europa.eu/esco/occupation/4163b31e-440b-4991-b5c3-48d0515250ef,agent de commercialisation en réseau,37
+maintenance,http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff,ingénieur maintenance/ingénieure maintenance,102
+maintenance,http://data.europa.eu/esco/occupation/a9b20949-897b-481f-8642-d1f69263baff,chef d’équipe de maintenance industrielle,42
+maintenance,http://data.europa.eu/esco/occupation/680831bb-64fc-4fc8-ae58-c450327d9700,responsable maintenance de site de production,38
+maintenance,http://data.europa.eu/esco/occupation/e614861b-4685-4699-a12d-965cdd65ec64,technicien de maintenance industrielle en fabrication de chaussures/technicienne de maintenance industrielle en fabrication de chaussures,27
+maintenance,http://data.europa.eu/esco/occupation/2168e49d-e58a-43ec-a15e-8e173939b255,technicien en maintenance microélectronique/technicienne en maintenance microélectronique,26
+rh,http://data.europa.eu/esco/occupation/d3e32e5e-7f24-48e3-b939-e4f800eb62fb,responsable des ressources humaines,47
+rh,http://data.europa.eu/esco/occupation/068370e0-9c27-4814-87d0-44fbb3140815,consultant en recrutement/consultante en recrutement,43
+rh,http://data.europa.eu/esco/occupation/d8ed1703-9c03-4ea0-83cc-b6169bc54ffd,assistant ressources humaines/assistante ressources humaines,38
+logistique,http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74,responsable de la logistique approvisionnement,99
+logistique,http://data.europa.eu/esco/occupation/632e61c8-4e4b-44c7-b213-6dd5a174b143,responsable de la logistique distribution,78
+logistique,http://data.europa.eu/esco/occupation/51cd3a7a-eae6-4dc6-9f24-179d7ec6d230,analyste logistique,65
+logistique,http://data.europa.eu/esco/occupation/823db06f-25e1-4658-b063-d6ef956b41f5,responsable logistique et distribution,46
+logistique,http://data.europa.eu/esco/occupation/c8b296be-54ae-48cf-be21-031fa8457937,assistant logistique/assistante logistique,34

@@ -1,0 +1,1787 @@
+skillUri,target_jobs,essential,skillType,preferredLabel,altLabels
+http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02,developpeur,False,knowledge,Haskell,
+http://data.europa.eu/esco/skill/009673d9-e2fd-46ef-a64b-6027ac7fd613,logistique,False,skill/competence,fabriquer des ingrédients,
+http://data.europa.eu/esco/skill/00e53a0a-c0ba-4c9f-a2ed-4706d5832a00,commercial,True,skill/competence,garantir la satisfaction des clients,
+http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05,developpeur,False,knowledge,KDevelop,
+http://data.europa.eu/esco/skill/015b0162-6dd3-4d46-bbfd-325086155dd5,logistique,False,skill/competence,acheter des fournitures,"gérer les approvisionnements
+achat de fournitures
+acquérir des fournitures
+gagner des fournitures
+achats de fournitures"
+http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377,developpeur,True,skill/competence,transférer des données existantes,
+http://data.europa.eu/esco/skill/020b3c27-bae1-4b85-9d6f-eccee0f5ed99,logistique,True,skill/competence,gérer des fournitures,
+http://data.europa.eu/esco/skill/0295b2a4-fb86-495f-9547-d479532fc4c2,comptable,False,skill/competence,suivre des transactions financières,
+http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386,developpeur,False,knowledge,Erlang,
+http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041,"commercial, developpeur, logistique, maintenance",True,skill/competence,trouver des solutions aux problèmes,
+http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,maintenance,False,knowledge,structure de l’information,
+http://data.europa.eu/esco/skill/047fcf0a-2936-49fb-b4eb-97cdd8d09d0b,comptable,False,skill/competence,tenir des livres et registres obligatoires,
+http://data.europa.eu/esco/skill/04a97507-f019-4b5c-ae52-46224922ce25,logistique,True,skill/competence,gérer les modes de paiement du fret,
+http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93,developpeur,False,knowledge,SAS language,
+http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9,developpeur,True,skill/competence,utiliser une interface spécifique à une application,
+http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2,commercial,True,skill/competence,effectuer une analyse de données en ligne,
+http://data.europa.eu/esco/skill/071233c4-ad2b-4f50-b79f-768d2231163e,developpeur,True,knowledge,système de noms de domaine,"DNS
+serveur DNS"
+http://data.europa.eu/esco/skill/075c68d7-efe4-4466-be4a-9acc726504df,comptable,False,knowledge,fusions et acquisitions,fusions-acquisitions
+http://data.europa.eu/esco/skill/080b0153-36ae-43f6-b3c3-c1fe6fd8f1de,logistique,False,skill/competence,planifier des procédures pour des opérations de manutention de la cargaison,
+http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c,logistique,False,skill/competence,coopérer avec des collègues,
+http://data.europa.eu/esco/skill/08371fe9-c658-4f6a-966f-71dbb0ab683d,comptable,True,knowledge,procédures des services de comptabilité,
+http://data.europa.eu/esco/skill/0839eea4-c57b-4c14-b19b-923fbedb5d88,"comptable, logistique",True,skill/competence,réaliser une étude commerciale,
+http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a,commercial,True,skill/competence,intégrer des fondements stratégiques dans les activités courantes,
+http://data.europa.eu/esco/skill/089ddb19-1c7a-43ff-ba64-070f7ce4787a,logistique,True,knowledge,opérations d'entreposage,"pratiques en matière d'entrepôt
+paradigmes des opérations d'entrepôt
+principes d'exploitation des entrepôts
+fondamentaux des opérations d'entreposage
+fondamentaux des opérations d'entrepôt
+principes de fonctionnement d'un entrepôt
+principes fondamentaux des opérations d'entrepôt
+opérations d'entrepôts
+principes et pratiques d'exploitation des entrepôts
+opérations dans les entrepôts
+fonctions des entrepôts
+pratiques en matière d'entrepôsage"
+http://data.europa.eu/esco/skill/08ee68b2-0a6d-4bdf-a870-a36c0dc8064e,comptable,False,skill/competence,produire des dossiers financiers statistiques,
+http://data.europa.eu/esco/skill/08fe5910-8c4c-4679-a988-eb2ded3c4909,"comptable, logistique, rh",True,knowledge,législation sociale,législation du travail
+http://data.europa.eu/esco/skill/09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba,logistique,False,knowledge,logiciel de transport lié à un progiciel de gestion intégré,logiciel de transport lié à un système d’ERP
+http://data.europa.eu/esco/skill/0a30a7df-750a-4df3-9a70-f537c5d14277,logistique,False,skill/competence,surveiller les activités à valeur ajoutée d’un entrepôt,
+http://data.europa.eu/esco/skill/0a43729f-2a79-4dae-9faa-95520daae79f,rh,True,skill/competence,appliquer les politiques d’une entreprise,
+http://data.europa.eu/esco/skill/0a48d064-dd04-47fb-a00d-85e9b4874033,commercial,True,knowledge,principes de gestion d'entreprise,
+http://data.europa.eu/esco/skill/0a52bed5-fd29-45fb-aba6-e32bccfda1c1,developpeur,False,skill/competence,planifier une migration vers l’informatique en nuage,
+http://data.europa.eu/esco/skill/0a74ff59-62a8-4942-9063-10fea819e19a,logistique,False,skill/competence,surveiller des procédures de sécurité dans des opérations d’entreposage,
+http://data.europa.eu/esco/skill/0a856d55-23b5-4bdc-ad24-3eb5bc83d81f,logistique,False,skill/competence,mettre en œuvre la planification d’itinéraires dans le cadre de services de mobilité intelligente,
+http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26,developpeur,True,skill/competence,utiliser des langages de balisage,"utiliser SVG
+utiliser XHTML
+utiliser RSS
+utiliser des langages de description de page
+utiliser XML
+utiliser des langages de description
+utiliser HTML"
+http://data.europa.eu/esco/skill/0af529ff-a95d-419b-ab2a-335f6894a966,logistique,True,skill/competence,tenir à jour des bases de données logistiques,
+http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300,developpeur,True,skill/competence,développer des méthodes de migration automatisées,
+http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604,logistique,True,skill/competence,exécuter simultanément plusieurs tâches,"exécuter en même temps plusieurs tâches
+effectuer simultanément plusieurs tâches
+effectuer en même temps plusieurs tâches"
+http://data.europa.eu/esco/skill/0bd4c62a-c309-467e-be76-8403b3f3a1a8,comptable,False,knowledge,produits financiers,
+http://data.europa.eu/esco/skill/0c0488b3-fca5-4deb-865b-8dc605c3d909,commercial,True,knowledge,argumentaire de vente,arguments commerciaux
+http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a,rh,False,skill/competence,intervenir en tant que coach auprès des employés,
+http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3,developpeur,False,knowledge,Ruby (programmation informatique),"Ruby-gnome2
+Ruby prog
+Ruby lang"
+http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871,developpeur,False,knowledge,Common Lisp,
+http://data.europa.eu/esco/skill/0cf27a00-947f-473d-af1a-24028c17ba27,logistique,False,knowledge,réglementation internationale relative à la manutention du fret,
+http://data.europa.eu/esco/skill/0d07fb7e-2815-454c-83e2-9c736c23435c,logistique,True,skill/competence,coordonner les opérations portuaires,
+http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306,developpeur,False,knowledge,Apache Maven,
+http://data.europa.eu/esco/skill/0d73a5c0-7f95-4ede-92f3-eac434a970a9,maintenance,False,knowledge,ingénierie maritime,
+http://data.europa.eu/esco/skill/0d85dc6f-ea26-49a9-85b9-532441b000e2,logistique,False,skill/competence,gérer la logistique des produits médicaux,
+http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127,commercial,True,skill/competence,communiquer avec des clients,
+http://data.europa.eu/esco/skill/0dd4d328-f015-463d-9a7e-06b7041f0b26,"commercial, comptable",True,knowledge,industrie des biens de consommation,"industrie des produits de consommation
+CPG
+produits de grande consommation
+secteur des biens de consommation"
+http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220,developpeur,False,knowledge,Lisp,
+http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64,developpeur,True,skill/competence,identifier les exigences des clients,
+http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5,commercial,True,skill/competence,gérer un planning de tâches,
+http://data.europa.eu/esco/skill/0e54cc0e-6cef-41ec-bd8c-e8e8778969ec,commercial,False,knowledge,marketing relationnel,"stratégies de marketing relationnel
+stratégies de mise en oeuvre des modalités de traitement des demandes des clients, des consommateurs en lien avec services concernés (marketing, commercial, communication, ...)"
+http://data.europa.eu/esco/skill/0edaab25-1b72-4531-950d-d8b9a9f4a1c8,comptable,False,knowledge,système de gestion de trésorerie,"responsable gestion trésorerie
+gestion de trésorerie"
+http://data.europa.eu/esco/skill/0efbe2dc-2770-47ec-b8f4-d1bdff6ac0a4,"comptable, logistique",False,skill/competence,donner des conseils sur la gestion de risques,
+http://data.europa.eu/esco/skill/0f00f63f-3ab4-4057-b92f-500584b51757,developpeur,False,knowledge,Informatica PowerCenter,
+http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a,maintenance,False,skill/competence,optimiser les paramètres d’un processus de production,
+http://data.europa.eu/esco/skill/0f850624-ae28-47c2-ab80-484290a96aea,logistique,False,knowledge,produits à base de métaux et minerais de fer,
+http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a,developpeur,False,knowledge,Apache Tomcat,
+http://data.europa.eu/esco/skill/10026df1-670d-4c75-b3d5-ee0037f9d59b,maintenance,False,skill/competence,Optimiser les processus,
+http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816,developpeur,True,knowledge,schéma de conception d’interface utilisateur,
+http://data.europa.eu/esco/skill/101d63ee-bb22-4a7c-9e0a-c2716063696a,maintenance,True,skill/competence,"réaliser des évaluations de la santé, de la sécurité et de l’environnement",
+http://data.europa.eu/esco/skill/102b6ba8-452c-4f6b-8b3f-1ab5a2d02ffe,comptable,False,skill/competence,donner des conseils sur les notes de solvabilité,
+http://data.europa.eu/esco/skill/1110c92f-3059-445a-9436-0f4200d365f5,developpeur,False,knowledge,Sass,
+http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6,developpeur,False,skill/competence,créer une architecture en nuage,
+http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746,logistique,False,skill/competence,identifier les fournisseurs,"choisir des fournisseurs
+trouver des fournisseurs
+sélectionner des fournisseurs"
+http://data.europa.eu/esco/skill/1177c6f5-09c5-4c35-873c-afd22d170ad3,maintenance,True,knowledge,procédures d’assurance qualité,
+http://data.europa.eu/esco/skill/11cbcf7f-8dc3-4c9a-9ec1-37f51b5cbc19,commercial,False,knowledge,commerce international,"commerce mondial
+commerce extérieur"
+http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd,developpeur,False,skill/competence,élaborer un modèle d’interaction,
+http://data.europa.eu/esco/skill/1279a2e8-e44f-49b6-9a7f-9241d07d2ed3,commercial,True,skill/competence,conclure des accords commerciaux,
+http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,commercial,False,knowledge,procédés de production,
+http://data.europa.eu/esco/skill/131b4258-d9bb-4b01-9202-374184fb3c07,logistique,True,skill/competence,minimiser des coûts d’expédition,
+http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413,developpeur,False,knowledge,Visual Basic,"Visual Studio .NET
+VB
+VB.NET"
+http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e,commercial,True,skill/competence,mettre en œuvre des stratégies de marketing,
+http://data.europa.eu/esco/skill/142f7164-fe09-49ec-af18-7c9e86269d9e,maintenance,False,knowledge,fluides de batteries,liquides de batteries
+http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,maintenance,False,knowledge,informatique décisionnelle,
+http://data.europa.eu/esco/skill/146eccdc-c52a-4d61-9406-3af617caa7d6,logistique,False,skill/competence,prévoir les ventes sur des périodes données,
+http://data.europa.eu/esco/skill/147170ba-0141-4337-89af-b4513d745afe,"comptable, logistique",True,skill/competence,soutenir l’évolution du budget annuel,
+http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,maintenance,False,skill/competence,résoudre des problèmes techniques,
+http://data.europa.eu/esco/skill/14ced458-5f4b-495f-bd3d-9c240614bda0,developpeur,False,knowledge,Adobe Photoshop,
+http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd,developpeur,False,knowledge,IBM InfoSphere DataStage,
+http://data.europa.eu/esco/skill/151174e2-2a27-4c1e-be68-6446278d34b7,commercial,True,skill/competence,effectuer l’intendance,
+http://data.europa.eu/esco/skill/153517bb-84ef-45f1-a185-1d427792026d,comptable,False,skill/competence,vérifier le planning de production,
+http://data.europa.eu/esco/skill/1585fc98-bfe4-461f-97fc-734055a2c3ce,commercial,True,knowledge,caractéristiques des produits,
+http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc,commercial,False,knowledge,service clients,
+http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,"commercial, maintenance",True,knowledge,communication,communiquer
+http://data.europa.eu/esco/skill/161a6c5a-593a-4977-b7b7-49c6a2a2f2a3,comptable,False,skill/competence,donner des conseils en planification fiscale,
+http://data.europa.eu/esco/skill/16594fea-3004-4730-838f-e35a432b49da,comptable,False,skill/competence,analyser la valeur financière d’une action,
+http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce,"commercial, developpeur",True,skill/competence,utiliser les services en ligne,"s'engager dans la citoyenneté grâce aux technologies numériques
+s’engager dans la citoyenneté au moyen des technologies numériques
+utiliser des solutions de paiement en ligne
+utiliser les services électroniques"
+http://data.europa.eu/esco/skill/16b1f191-eafd-4821-a08a-9f0cc4e5a71a,logistique,False,knowledge,produits pharmaceutiques,
+http://data.europa.eu/esco/skill/171eee55-19b9-46d6-aded-33193ba8ccf1,logistique,False,skill/competence,étudier des niveaux de vente de produits,
+http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51,developpeur,True,skill/competence,utiliser des outils de génie logiciel assisté par ordinateur,
+http://data.europa.eu/esco/skill/1774bd31-8893-44cf-9498-7e3d95508419,developpeur,False,knowledge,lecteur d’écran,"logiciel de synthèse vocale
+technologie d'assistance à la lecture"
+http://data.europa.eu/esco/skill/17924c75-45f4-4593-afac-eea0d51f04b5,developpeur,False,knowledge,procédures normalisées de défense,
+http://data.europa.eu/esco/skill/1883a1f5-f190-4ef3-8521-36d8cc6dbb47,comptable,True,skill/competence,inspecter des déclarations de revenus,
+http://data.europa.eu/esco/skill/190b7060-79fa-4450-9a3d-c4ce63b0fa4d,maintenance,True,skill/competence,souder des composants sur un circuit imprimé,
+http://data.europa.eu/esco/skill/1951e126-6c66-46cf-9345-d4941c85bc2a,comptable,True,skill/competence,inspecter les dépenses d’un gouvernement,
+http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,"developpeur, logistique",True,skill/competence,utiliser un logiciel de tableur,
+http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,developpeur,False,knowledge,Java (programmation informatique),"Java Posse
+Javax"
+http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9,commercial,True,skill/competence,utiliser des technologies numériques de façon créative,
+http://data.europa.eu/esco/skill/1abcc511-ba5a-42e0-8d88-7efb39af4c36,maintenance,False,skill/competence,utiliser des systèmes de découpage automatiques pour des chaussures et de la maroquinerie,
+http://data.europa.eu/esco/skill/1af2db15-2af9-44dd-9639-bf1fc69d4c34,commercial,False,skill/competence,gérer les relations avec des parties prenantes,
+http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5,developpeur,False,knowledge,MDX,
+http://data.europa.eu/esco/skill/1c460d2d-90c6-4fc9-ad49-febb6e15605a,logistique,False,knowledge,stratégies de tarification,"stratégies de prix
+stratégies tarifaires"
+http://data.europa.eu/esco/skill/1c8a92d4-18b9-4279-898c-ad89233bb511,logistique,False,skill/competence,surveiller le stockage d’ingrédients,
+http://data.europa.eu/esco/skill/1d0c2220-6855-4689-aeea-16c9c615b284,comptable,False,skill/competence,se concerter avec le producteur de films cinématographiques,"conférer avec le producteur
+consultation avec le producteur
+consulter le producteur de films cinématographiques"
+http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919,commercial,False,skill/competence,appliquer les directives du siège à des activités locales,
+http://data.europa.eu/esco/skill/1d4ddf05-510a-424a-85d3-2305558665c5,maintenance,False,skill/competence,faire des recherches sur des projets d’énergie marine,travailler sur des projets d’énergie marémotrice
+http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9,commercial,True,skill/competence,assurer le respect des exigences légales,"assurer le respect des prescriptions légales
+assurer le respect des règles légales
+assurer la conformité aux exigences légales
+garantir le respect des exigences légales
+veiller au respect des exigences légales
+respecter les exigences légales"
+http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317,"comptable, logistique, maintenance",True,skill/competence,effectuer une analyse de risque,
+http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b,developpeur,False,knowledge,Drupal,
+http://data.europa.eu/esco/skill/1de6b87b-2c7d-49aa-bcc0-3b2ef75f064f,maintenance,True,skill/competence,résoudre des dysfonctionnements d’équipements,
+http://data.europa.eu/esco/skill/1dea2f3a-857c-4fc3-b1f8-d5f2015c46a9,logistique,True,skill/competence,donner des instructions au personnel,
+http://data.europa.eu/esco/skill/1f618933-1c1b-4b49-91f7-d567d25406bf,logistique,True,skill/competence,assurer la liaison avec les entreprises de transport,
+http://data.europa.eu/esco/skill/209a5498-3449-4689-8ed9-bd08cab4fd78,"developpeur, maintenance",True,knowledge,principes d’ingénierie,
+http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416,developpeur,True,skill/competence,suivre les évolutions en matière de solutions de systèmes d’information,"suivre les solutions les plus modernes en systèmes d’information
+rester au fait des dernières solutions en systèmes d’information
+être au courant des dernières solutions en systèmes d’information
+s’informer des dernières solutions en systèmes d’information
+suivre les nouvelles solutions en systèmes d’information"
+http://data.europa.eu/esco/skill/210827e3-3129-45a2-8683-70399f3f561f,logistique,True,skill/competence,commander des fournitures,"s’approvisionner
+passer des commandes de fournitures
+se ravitailler"
+http://data.europa.eu/esco/skill/21a3967a-dca2-4efa-9e5f-943f15527a47,comptable,False,knowledge,tarifs douaniers,"prélèvements internationaux
+tarifs internationaux sur les marchandises transportées
+impôts internationaux
+taxes à l'importation et à l'exportation
+droits de douane internationaux sur les marchandises transportées
+taxes internationales
+droits de douane sur le fret international
+droits à l'importation et à l'exportation
+tarifs de fret international
+droits d'importation et d'exportation
+tarifs internationaux
+prélèvements à l'importation et à l'exportation
+taxes d'import-export
+tarifs douaniers d'import-export
+droits de douane internationaux sur le fret"
+http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea,"commercial, comptable, logistique, maintenance, rh",True,skill/competence,gérer les budgets,"coûts fixés dans le budget
+superviser les budgets opérationnels
+gérer les budgets opérationnels
+gérer les budgets d'exploitation
+budget fixé des coûts
+gérer le budget opérationnel"
+http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97,developpeur,True,knowledge,programmation informatique,
+http://data.europa.eu/esco/skill/21e0cad8-4eef-42be-b18b-0f8e37f0dbd0,logistique,True,knowledge,cycle de vie d’un produit,
+http://data.europa.eu/esco/skill/2200e940-ad43-4828-8727-47c4afcbc351,maintenance,False,knowledge,procédés et techniques d’assemblage pour la confection d’articles chaussants type soudés,
+http://data.europa.eu/esco/skill/2206af0c-3deb-48c5-a544-b9983d347da3,commercial,True,skill/competence,répondre à des demandes de devis,
+http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae,"commercial, logistique, rh",True,skill/competence,entretenir des relations avec des clients,
+http://data.europa.eu/esco/skill/2245cba7-fa4f-47b8-a0cb-3a6b60d703ee,rh,False,skill/competence,donner des conseils sur des questions personnelles,
+http://data.europa.eu/esco/skill/22a173f5-868c-4d82-87e6-beed500ce070,comptable,True,skill/competence,préparer des formulaires de déclaration de revenus,
+http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb,developpeur,False,skill/competence,utiliser un logiciel de présentation,
+http://data.europa.eu/esco/skill/23900e3d-06fa-424c-a5dc-c0ea42edde1e,developpeur,False,knowledge,Oracle Warehouse Builder,
+http://data.europa.eu/esco/skill/24229e89-9e1d-4c1a-ae23-c64777b152ce,comptable,False,skill/competence,consulter le directeur de production,
+http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17,developpeur,False,knowledge,cadres logiciels,
+http://data.europa.eu/esco/skill/24e67151-ff7e-43e2-99c0-424a758278a4,comptable,False,skill/competence,communiquer avec des experts-comptables,
+http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1,developpeur,True,skill/competence,déboguer un logiciel,
+http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109,developpeur,False,skill/competence,utiliser la programmation concurrente,"recourir à la programmation concurrente
+utiliser la programmation parallèle
+faire usage de la programmation concurrente
+employer la programmation concurrente
+utiliser programmation concurrente"
+http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,maintenance,False,knowledge,exploration de données,
+http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d,logistique,False,skill/competence,fournir une documentation technique,"fournir la documentation
+fournir des documents"
+http://data.europa.eu/esco/skill/26baf34d-6721-4bac-b7eb-add0bc566a82,logistique,True,skill/competence,soigner les détails en vue des audits,assurer une conformité permanente facilitant les audits
+http://data.europa.eu/esco/skill/26fa7a33-a426-4cd5-9792-33bf668612e1,developpeur,False,knowledge,LESS,
+http://data.europa.eu/esco/skill/27065048-bca8-4b0a-891a-b192b9ceadfd,maintenance,True,knowledge,logiciel de FAO,logiciel de fabrication assistée par ordinateur
+http://data.europa.eu/esco/skill/277f489c-7a47-4791-bd87-61ca01737f96,maintenance,True,skill/competence,superviser une production,
+http://data.europa.eu/esco/skill/279a4b1d-21df-4d78-9f4d-324c73fd7536,logistique,False,skill/competence,gérer les ressources humaines,
+http://data.europa.eu/esco/skill/27b913f0-3c52-448b-ad27-fc6ef08fb326,developpeur,False,knowledge,Adobe Illustrator,
+http://data.europa.eu/esco/skill/2839f191-cd94-49a9-ac16-46018066b8b2,commercial,False,skill/competence,assurer la liaison avec des autorités locales,
+http://data.europa.eu/esco/skill/28a2ff4b-5f99-448e-8bd7-fb836166e95f,comptable,True,skill/competence,établir des factures,
+http://data.europa.eu/esco/skill/28ad7c97-9fb3-4b1d-846a-654e529ab8ac,maintenance,False,knowledge,fabrication durable,"production durable
+fabrication respectueuse de l'environnement
+fabrication neutre en carbone
+fabrication verte
+produits forestiers durables
+fabrication respectueuse de l’environnement
+fabrication économe en ressources
+une fabrication économe en ressources"
+http://data.europa.eu/esco/skill/28bc5334-5372-4bd6-8458-c2b516dd6104,maintenance,False,skill/competence,collecter des déchets industriels,
+http://data.europa.eu/esco/skill/28f637e1-15fc-462d-ba10-5908fd438a0e,commercial,False,skill/competence,interagir avec un conseil d’administration,
+http://data.europa.eu/esco/skill/2910e2f0-115f-4868-9282-604067153c4f,commercial,True,skill/competence,assurer la légalité des activités commerciales,
+http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e,developpeur,False,skill/competence,effectuer un contrôle de la qualité du contenu,
+http://data.europa.eu/esco/skill/292549e6-08ec-456c-b008-eba7a0a68428,"commercial, logistique",False,skill/competence,analyser les tendances d'un marché financier,
+http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d,commercial,True,skill/competence,vendre des produits,
+http://data.europa.eu/esco/skill/29d80dad-95f7-440c-bda2-22fe93155260,comptable,False,skill/competence,assurer des activités en tant qu’expert-comptable judiciaire,
+http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4,"commercial, logistique",True,skill/competence,agir en faveur de la croissance de l’entreprise,
+http://data.europa.eu/esco/skill/2abb7341-11a9-4799-9aef-7f2a83de0358,logistique,True,knowledge,théorie des contraintes,"TOC
+fondamentaux du TOC
+principes du TOC
+principes fondamentaux de la théorie des contraintes
+paradigme de la théorie des contraintes
+principes fondamentaux de la TOC
+principes de la théorie des contraintes
+principes de la TOC"
+http://data.europa.eu/esco/skill/2ad081e6-0a3f-4612-ac15-7ace75d39e26,commercial,False,knowledge,droit de la propriété intellectuelle,
+http://data.europa.eu/esco/skill/2ada2f9d-77f7-4ba0-9096-89ae285a65c5,comptable,True,skill/competence,contrôler les comptes financiers,"maîtriser les comptes financiers
+effectuer un bilan financier
+réaliser un bilan financier"
+http://data.europa.eu/esco/skill/2ae4ae1a-367e-47e0-a0cc-6777be3e58d0,rh,False,skill/competence,organiser l'évaluation du personnel,
+http://data.europa.eu/esco/skill/2aff15fb-1c24-42b5-89ca-17696df25370,"commercial, logistique, maintenance",False,knowledge,produits chimiques,
+http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17,developpeur,True,skill/competence,utiliser des patrons de conception,"faire usage des patrons de conception
+utiliser des patrons de programmation
+ajouter des patrons de conception
+utiliser des design pattern
+employer des patrons de conception
+utiliser des patrons d’architecture"
+http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f,"logistique, maintenance",True,skill/competence,effectuer une analyse de données,
+http://data.europa.eu/esco/skill/2b9f4584-da2e-44e2-a2fb-4dd4fc64c1a2,maintenance,True,knowledge,circuits intégrés,"circuit intégré hybride
+circuits de signaux
+puce
+circuits électroniques intégrés
+CI
+circuits de signalisation
+puce électronique
+microprocesseur
+IC
+circuits intégrés monolithiques"
+http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985,developpeur,False,knowledge,Prolog (programmation informatique),
+http://data.europa.eu/esco/skill/2c02fb07-de47-46d3-8a99-b916137951ef,logistique,False,skill/competence,rendre visite à des fournisseurs,
+http://data.europa.eu/esco/skill/2c4b6914-4b97-4e35-85cb-e6602a8bb04a,logistique,False,skill/competence,lancer des appels d'offres,
+http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424,developpeur,False,skill/competence,utiliser la programmation logique,
+http://data.europa.eu/esco/skill/2c5cbddf-3393-452f-abb0-8e734d1b61be,logistique,False,skill/competence,planifier des besoins futurs en matière de capacité,
+http://data.europa.eu/esco/skill/2ca4c857-1450-4004-9fdb-8500def6b8fa,logistique,False,knowledge,logistique militaire,
+http://data.europa.eu/esco/skill/2d008d5a-b7bd-46f7-bbb1-5d70a0af9c84,"commercial, comptable, logistique",True,skill/competence,contrôler les ressources financières,
+http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6,logistique,False,knowledge,gestion des opérations,gestion des opérations commerciales
+http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a,developpeur,True,skill/competence,traduire les exigences en conception visuelle,
+http://data.europa.eu/esco/skill/2daa2d63-07ef-4c16-b0f3-697bbb6fc205,commercial,False,skill/competence,s'adapter au changement en marketing,
+http://data.europa.eu/esco/skill/2dd6ecdf-8a08-438b-8b4b-e0374f7b523b,commercial,True,skill/competence,procéder à l'analyse des ventes,
+http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac,"commercial, logistique",False,skill/competence,parler plusieurs langues,
+http://data.europa.eu/esco/skill/2ecf90f1-c511-464b-b26f-598d69182c70,comptable,True,skill/competence,calculer un impôt,
+http://data.europa.eu/esco/skill/2f573ad6-1fa6-46c5-a48d-912368fe55aa,commercial,False,skill/competence,livrer un argumentaire de vente,
+http://data.europa.eu/esco/skill/2facacc1-920c-45f4-9a69-5892e0d34fd8,logistique,False,knowledge,"matières premières agricoles, semences et produits d'alimentation animale",
+http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,maintenance,False,knowledge,processus d’innovation,
+http://data.europa.eu/esco/skill/2fd77342-8b8d-414e-8b03-5a65f79e9b78,maintenance,False,skill/competence,entretenir des réacteurs nucléaires,
+http://data.europa.eu/esco/skill/2ff405ec-f59c-4a7b-84b6-9776a49582c4,comptable,True,knowledge,règles de comptabilité,
+http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954,developpeur,False,knowledge,OpenEdge Advanced Business Language,
+http://data.europa.eu/esco/skill/307ffd2d-8fb3-43ff-8ad8-4052382f8f83,commercial,False,skill/competence,rédiger un rapport sur la gestion générale d’une entreprise,
+http://data.europa.eu/esco/skill/3159d806-fa7b-4803-9288-0c0417b7871c,"commercial, logistique",False,knowledge,machines de l'industrie textile,
+http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,"developpeur, logistique",False,skill/competence,exécuter des calculs mathématiques et analytiques,
+http://data.europa.eu/esco/skill/31c83903-8fc8-4bd8-9ca4-7a98a9c31eae,commercial,False,skill/competence,effectuer une analyse de besoins de clients,
+http://data.europa.eu/esco/skill/31eecea5-c1ef-4e5c-96a9-808ff4e43813,logistique,False,skill/competence,suivre des tendances de prix,
+http://data.europa.eu/esco/skill/3254275d-a1b5-4640-9481-02f38780ac35,commercial,False,skill/competence,élaborer des politiques d’organisation,
+http://data.europa.eu/esco/skill/328733a7-6d84-420d-a65c-2a8014fadc60,maintenance,False,skill/competence,enregistrer des données d'essais,
+http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40,maintenance,True,skill/competence,effectuer un dépannage,
+http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb,"commercial, comptable, logistique, maintenance",True,skill/competence,gérer le personnel,
+http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb,commercial,False,skill/competence,protéger des données à caractère personnel et la vie privée,
+http://data.europa.eu/esco/skill/341c4478-c976-4ff0-a102-cfd92174d873,commercial,True,knowledge,droit des affaires,"droit commercial
+droit des sociétés"
+http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,maintenance,False,knowledge,techniques de présentation visuelle,"technique de présentation visuelle
+visualisation d’informations
+interface de visualisation
+Infovis Toolkit
+InfoVis
+technique de présentation vidéo et visuelle"
+http://data.europa.eu/esco/skill/368e5db0-ecca-4694-b116-3bb0f238d10c,maintenance,False,skill/competence,assembler des capteurs,
+http://data.europa.eu/esco/skill/36931cb7-ca3f-4be1-8428-f38eefc8e1ed,commercial,True,skill/competence,faire du marketing par courrier électronique,
+http://data.europa.eu/esco/skill/36e9c099-614e-44f1-ab0a-5e6fda4a0763,maintenance,False,skill/competence,entreprendre des inspections,
+http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db,maintenance,False,knowledge,procédés de fabrication,
+http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,commercial,False,knowledge,achats électroniques,
+http://data.europa.eu/esco/skill/38716afc-a93b-44ab-96cc-2ecf67edcf32,developpeur,False,skill/competence,procéder à la reprogrammation de l’informatique en nuage,
+http://data.europa.eu/esco/skill/387ee646-0aaa-4161-ab3b-cde87ec09fdf,comptable,True,knowledge,finances publiques,
+http://data.europa.eu/esco/skill/38a5c459-c591-4f76-a358-37de342bb11d,rh,True,knowledge,offres d’emploi,
+http://data.europa.eu/esco/skill/38a6e9b0-e502-477c-9a9f-df1363984507,maintenance,False,knowledge,procédés et techniques de précouture pour des articles chaussants et des articles en cuir,
+http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb,developpeur,True,knowledge,systèmes numériques,systèmes d'information numériques
+http://data.europa.eu/esco/skill/3982571a-e9ce-442a-a4a0-fdfc97727091,comptable,False,skill/competence,tenir une caisse,
+http://data.europa.eu/esco/skill/39d92981-7b68-47de-bfc0-5374c067dba9,logistique,False,skill/competence,contrôler la documentation des transactions commerciales,
+http://data.europa.eu/esco/skill/39e43f7c-a95e-4583-be76-bb134ccce1ae,comptable,True,knowledge,procédures des services financiers,
+http://data.europa.eu/esco/skill/3a0f10bd-4c3f-4020-b29c-f03cfe6d6e5b,logistique,False,skill/competence,coordonner le transport,
+http://data.europa.eu/esco/skill/3af687cb-8c7a-46ea-a730-32dbaed040c6,developpeur,False,knowledge,Oracle Data Integrator,
+http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca,logistique,True,skill/competence,appliquer la gestion du changement,
+http://data.europa.eu/esco/skill/3c209873-c757-47bb-91b5-9b6dc05df116,"commercial, comptable",False,knowledge,activités bancaires,activités de banque
+http://data.europa.eu/esco/skill/3c2e6f38-42c1-46ec-b782-5854b2db330d,developpeur,False,knowledge,ouverture de la chaîne de blocs,
+http://data.europa.eu/esco/skill/3cb68bb2-66fc-495a-af82-012338a9402b,logistique,False,skill/competence,interpréter des informations commerciales,
+http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c,"commercial, logistique",True,skill/competence,entretenir des relations avec des fournisseurs,
+http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7,developpeur,False,knowledge,JavaScript,"Escript
+JavaScript 1.7
+Client-side JavaScript
+JavaScripts
+Mocha
+Server-side JavaScript
+Live script
+Live Script
+CSJS
+JavaScript 1.6"
+http://data.europa.eu/esco/skill/3cee858e-79e8-4a4b-b99f-93c7f735d58b,developpeur,False,knowledge,DB2,
+http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,developpeur,False,knowledge,Microsoft Access,
+http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11,comptable,False,skill/competence,se conformer aux réglementations juridiques,
+http://data.europa.eu/esco/skill/3d913cd3-4ba3-4be9-8b35-4ad0de5ccb60,logistique,True,skill/competence,suivre les expéditions,
+http://data.europa.eu/esco/skill/3e04e39d-9eb6-4167-ad2d-e3413f647e4e,logistique,True,skill/competence,classer des documents commerciaux,
+http://data.europa.eu/esco/skill/3e28860e-f520-461d-8282-a32264c4f4a1,comptable,False,skill/competence,gérer des recettes,
+http://data.europa.eu/esco/skill/3e9b580d-811b-48df-a5d1-a7bdd26f901f,comptable,True,skill/competence,préparer des rapports d’audit financier,
+http://data.europa.eu/esco/skill/3edfcb2b-2d0e-4673-87ce-f55c37eb5fca,"logistique, maintenance",False,skill/competence,contrôler des normes de qualité de production,
+http://data.europa.eu/esco/skill/3ee090a1-9d1c-44ed-bd93-f6b7c9b68a97,"comptable, rh",True,skill/competence,gérer des rapports de paie,
+http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1,developpeur,False,knowledge,XQuery,
+http://data.europa.eu/esco/skill/3f86173d-e101-4fcd-934f-ff9de29c081c,logistique,True,skill/competence,effectuer une analyse système,
+http://data.europa.eu/esco/skill/40005305-4541-4da7-9f76-abab74f0bc51,logistique,False,skill/competence,contrôler les absences de salariés,
+http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8,developpeur,False,knowledge,Perl,"PERL
+Perl golf
+Perl Camel
+Ponie"
+http://data.europa.eu/esco/skill/40ae7e06-5eb8-40cd-a755-ad7152bdb01e,maintenance,False,skill/competence,appliquer les techniques de découpage à la machine pour les articles chaussants et les articles en cuir,
+http://data.europa.eu/esco/skill/40f27736-0d98-4446-8234-11646e4f4bc3,"logistique, maintenance",False,skill/competence,gérer la logistique de produits finis,
+http://data.europa.eu/esco/skill/414332e4-8347-4771-b947-65bd3801a620,comptable,False,skill/competence,utiliser des techniques de conseil,utiliser des techniques de consulting
+http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a,"commercial, logistique",True,skill/competence,utiliser différents moyens de communication,
+http://data.europa.eu/esco/skill/41a3240f-58ba-44e2-a688-edeb21ea5c16,maintenance,True,skill/competence,mener une analyse de contrôle qualité,
+http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1,developpeur,False,skill/competence,gérer les connaissances du marché,"prendre en charge la gestion des connaissances de l’entreprise
+administrer les connaissances de l’entreprise
+développer les connaissances de l’entreprise
+gérer les connaissances dans l’entreprise
+gérer le savoir de l’entreprise"
+http://data.europa.eu/esco/skill/41fd24a9-3ded-4b42-9412-1dd7731ef9fc,commercial,False,skill/competence,partager les règles de bonne pratique entre des filiales,
+http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,"developpeur, maintenance",False,skill/competence,procéder à l’extraction de données,"utiliser un modèle de données
+réaliser l’extraction de données
+utiliser l’informatique décisionnelle
+extraire des données
+effectuer l’extraction de données"
+http://data.europa.eu/esco/skill/42ab725f-e57f-4320-a9fd-ac3d6717963d,logistique,True,skill/competence,garantir le respect de la législation douanière,
+http://data.europa.eu/esco/skill/42c3287f-5e50-4559-a2d1-2000c70e0aab,developpeur,False,knowledge,Pentaho Data Integration,
+http://data.europa.eu/esco/skill/42dced65-823e-4f29-ad93-cae933b0dd7c,logistique,True,knowledge,règles relatives au transport international,"réglementation sur le transport international
+les règlements qui s'appliquent au transport international
+réglementations applicables au transport international
+la législation qui s'applique au transport international
+exigences légales en matière de transport international
+législation en matière de transports internationaux
+législation sur les transports internationaux
+réglementation des transports internationaux
+règlements régissant les transports internationaux
+réglementation appliquée au transport international
+législation régissant les transports internationaux
+législation applicable au transport international
+règlements applicables au transport international
+exigences légales pour le transport international"
+http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734,developpeur,False,knowledge,Smalltalk (programmation informatique),
+http://data.europa.eu/esco/skill/4300b453-9bcf-474c-9ee3-92ec2229720c,comptable,False,knowledge,normes mondiales de publication d’informations en matière de durabilité,
+http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2,maintenance,True,knowledge,mathématiques,"l'étude des mathématiques
+matières mathématiques
+modélisation solide
+domaine des mathématiques
+étude des mathématiques"
+http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f,developpeur,False,knowledge,PHP,"Php 5.1
+Php3
+Php5
+Php 6.0
+Php 5.3
+Php 5.2
+Php2
+PHP-FPM
+Phtml
+ElePHPant
+Php 5.4
+Php1
+Php6
+PHP5-FPM
+PHP7
+Php 4
+Php 5.0"
+http://data.europa.eu/esco/skill/438ff259-d086-4004-acda-1ec3e1631bc6,developpeur,False,knowledge,anomalies logicielles,
+http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a,developpeur,False,knowledge,OpenEdge Database,
+http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,developpeur,True,skill/competence,utiliser des bases de données,
+http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6,developpeur,False,knowledge,Xcode,
+http://data.europa.eu/esco/skill/44f6a65f-6be7-4818-9a66-73908797283f,logistique,False,skill/competence,surveiller le niveau de stocks,
+http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,commercial,False,knowledge,activités de vente,activités commerciales
+http://data.europa.eu/esco/skill/455a7133-cf0f-4c74-a91f-fd35c0d25b79,maintenance,False,skill/competence,installer des équipements mécatroniques,
+http://data.europa.eu/esco/skill/465ff64a-1271-4064-8ed1-e969cb68d8b4,maintenance,True,skill/competence,réaliser des essais de fonctionnement,
+http://data.europa.eu/esco/skill/473a8b64-a05c-4d49-962d-b9d9219950bc,logistique,True,skill/competence,analyser la relation entre l’amélioration de la chaîne d’approvisionnement et le bénéfice,
+http://data.europa.eu/esco/skill/475ffe5e-95a4-49f2-846a-49b65350606f,commercial,False,skill/competence,décrire la situation financière d’une région,
+http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,maintenance,False,skill/competence,analyser des mégadonnées,analyser des données volumineuses
+http://data.europa.eu/esco/skill/47ae7b24-3fe0-47e0-b0ea-825ebc10e18c,logistique,False,skill/competence,calculer des volumes d’achat de matières premières,
+http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3,developpeur,False,knowledge,Assembly (programmation informatique),
+http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a,comptable,False,skill/competence,fournir des rapports d’analyse coût-bénéfice,
+http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,developpeur,False,knowledge,data ingineering,"ingénierie de données
+méthodes d'ingénierie des données"
+http://data.europa.eu/esco/skill/49298916-2090-4b08-ac57-5cfedaa5af36,maintenance,True,skill/competence,réduire l’incidence environnementale de la production d’articles chaussants,
+http://data.europa.eu/esco/skill/493b20c2-c435-449a-896e-0af057c41fef,comptable,False,knowledge,processus de production cinématographique,processus de production d'un film
+http://data.europa.eu/esco/skill/4959697d-3a24-4f46-af0c-b752318e6c54,developpeur,False,knowledge,ObjectStore,
+http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b,"commercial, logistique, rh",True,skill/competence,recruter des employés,"embaucher le personnel
+recruter le personnel
+embaucher les employés"
+http://data.europa.eu/esco/skill/499031e7-9821-4728-adb8-2925663c6ef2,commercial,False,knowledge,paiements par carte de crédit,
+http://data.europa.eu/esco/skill/49d81d86-e748-4181-84e9-106173058081,commercial,False,knowledge,marketing des services,"stratégies de marketing des services
+services de marketing par courriel
+stratégies de marketing de services"
+http://data.europa.eu/esco/skill/49f6c9f1-49a6-4737-8bb0-0f6ab3558211,"commercial, logistique",False,knowledge,vêtements et chaussures,
+http://data.europa.eu/esco/skill/49fed129-e32b-4f67-b80a-609d79e45b20,"commercial, logistique",False,knowledge,équipements électroniques et de télécommunications,
+http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1,"commercial, comptable",True,knowledge,états financiers,rapport de gestion
+http://data.europa.eu/esco/skill/4a466c62-db7d-4905-9a41-f23214810acb,developpeur,False,knowledge,GIMP (logiciel d’édition graphique),
+http://data.europa.eu/esco/skill/4a855abe-ac5b-4e95-ac10-3c1adceeee28,comptable,True,knowledge,normes internationales d’information financière,"international financial reporting standards
+IFRS"
+http://data.europa.eu/esco/skill/4b164a27-849f-4be2-ae79-d26a4969b677,maintenance,True,knowledge,microélectronique,
+http://data.europa.eu/esco/skill/4b2db903-cd8e-48ce-97fb-a92db4def54e,"commercial, comptable, logistique",True,knowledge,prévision financière,
+http://data.europa.eu/esco/skill/4bd6e2ad-bf69-4198-b3ac-3baabd9da46e,"logistique, rh",True,skill/competence,fournir un appui à des dirigeants,
+http://data.europa.eu/esco/skill/4bdbd6db-7d75-40e7-b40e-5718e2982dfb,logistique,True,skill/competence,effectuer la gestion des risques financiers en commerce international,
+http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a,developpeur,False,knowledge,C#,
+http://data.europa.eu/esco/skill/4c831013-9027-4ec6-83de-c5c19e68d083,maintenance,True,skill/competence,travailler en toute sécurité avec des machines,
+http://data.europa.eu/esco/skill/4ca91852-c534-4b98-ab1c-59a126534c88,maintenance,False,knowledge,mise en service d’un projet,
+http://data.europa.eu/esco/skill/4d6a1837-93df-4a81-b424-74e1a8ed2f03,"logistique, maintenance",True,knowledge,logistique de transport multimodal,"logistique du transport combiné
+principes de la logistique du transport combiné
+principes de la logistique du transport multimodal
+principes de la logistique de transport combiné
+processus logistique du transport multimodal
+principes de la logistique de transport multimodal
+logistique du transport multimodal"
+http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f,developpeur,False,knowledge,MySQL,
+http://data.europa.eu/esco/skill/4ddf5204-95f5-4be2-ad35-571e2f493ae5,commercial,True,skill/competence,avoir le sens des affaires,
+http://data.europa.eu/esco/skill/4df04290-0084-499a-b52c-a43ff074e198,logistique,False,knowledge,procédures des services opérationnels,"procédures des services des opérations
+procédures des services d’exploitation"
+http://data.europa.eu/esco/skill/4e09e2d2-e317-47d2-bf5e-1d6c66be3efc,maintenance,False,knowledge,performance énergétique des bâtiments,efficacité énergétique des bâtiments
+http://data.europa.eu/esco/skill/4e6d2538-a48e-48a7-8dad-14b067cfcb8b,developpeur,False,knowledge,TripleStore,
+http://data.europa.eu/esco/skill/4e8ad2b8-d80c-4701-91aa-cd874142ef2d,commercial,True,knowledge,vente multiniveau,marketing de réseau
+http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349,"comptable, logistique",True,skill/competence,élaborer des rapports de statistiques financières,
+http://data.europa.eu/esco/skill/4f7fa632-15a6-4739-930b-abbac8055a80,maintenance,False,knowledge,microprogramme,"micrologiciel
+firmware"
+http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc,developpeur,True,skill/competence,réaliser des recherches scientifiques,
+http://data.europa.eu/esco/skill/4fd7909c-9600-476d-b1f0-615f9cc1260e,maintenance,False,knowledge,systèmes de découpage automatiques pour les articles chaussants et les articles en cuir,
+http://data.europa.eu/esco/skill/501537a7-9d63-491d-ae02-09f04767ff1e,developpeur,False,knowledge,vecteurs d’attaque,"menaces pour la cybersécurité
+menaces à la cybersécurité
+menaces à la sécurité des TIC
+menaces pour la sécurité de l'information"
+http://data.europa.eu/esco/skill/50181a4b-1cfd-4fbd-ac9a-c1a494b9c5d0,"commercial, rh",True,skill/competence,mettre en œuvre le suivi des clients,
+http://data.europa.eu/esco/skill/5033c2fb-ec55-4b8e-b0a4-9379593f1e1c,maintenance,True,skill/competence,entretenir des équipements,
+http://data.europa.eu/esco/skill/50a382c6-e848-467d-b156-7a1a3610b522,logistique,False,knowledge,évolution des prévisions économiques,
+http://data.europa.eu/esco/skill/50b92084-93fd-4fa4-b2e8-d4be690603b9,logistique,True,skill/competence,suivre les sites d’expédition,
+http://data.europa.eu/esco/skill/50e6eba0-4440-4ba5-bb58-3ee78a96e29b,maintenance,False,knowledge,énergie hydroélectrique,hydroélectricité
+http://data.europa.eu/esco/skill/50f5e41d-7ce3-481b-aed7-ee9484545bc4,maintenance,False,knowledge,gestion d’installations au sein d’une organisation,
+http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,developpeur,False,knowledge,R,
+http://data.europa.eu/esco/skill/519b3949-b711-4a08-a395-a4bd068f9fa2,logistique,True,knowledge,règles de sécurité applicables aux entrepôts,"réglementation en matière de santé et de sécurité dans les entrepôts
+réglementation en matière de sécurité des entrepôts
+réglementations de santé et de sécurité pour les entrepôts
+réglementation relative à la prévention des risques en entrepôt
+procédures de sécurité pour les opérations d'entrepôt
+réglementation en matière d'hygiène et de sécurité des entrepôts
+les règles de sécurité régissant l'exploitation des entrepôts
+réglementation sur la prévention des risques dans les entrepôts
+procédures de prévention des dangers en entrepôt
+codes d'hygiène et de sécurité des entrepôts
+réglementations de sécurité régissant les opérations d'entrepôt
+règlements régissant les procédures de sécurité des entrepôts
+procédures pour assurer la sécurité des opérations d'entrepôt
+codes de sécurité pour les entrepôts
+réglementation de sécurité des entrepôts
+procédures visant à assurer la sécurité des opérations d'entreposage
+codes de santé et de sécurité pour les entrepôts
+réglementation en matière de santé et de sécurité pour les entrepôts"
+http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1,developpeur,False,knowledge,Groovy,
+http://data.europa.eu/esco/skill/52e53619-fa77-4f72-b237-5e4aae784dc2,"commercial, comptable",False,knowledge,gestion financière,
+http://data.europa.eu/esco/skill/52f6fca4-1ab6-4588-983d-15a278148961,logistique,False,skill/competence,gérer la logistique multi-modale,
+http://data.europa.eu/esco/skill/53103efa-a525-4a5b-81e5-282c4331e72c,logistique,False,skill/competence,programmer le travail en fonction de l’arrivée des commandes,
+http://data.europa.eu/esco/skill/5330b70e-16f5-43a7-a6de-18fd6a4bd063,commercial,False,knowledge,relations publiques,
+http://data.europa.eu/esco/skill/53815c73-d352-4d4d-92cb-fb7020cbd8e6,logistique,True,skill/competence,veiller à la précision du contrôle des stocks,
+http://data.europa.eu/esco/skill/53cc0cc2-a9ce-4803-ae55-3cc0d7a5fc2c,logistique,False,skill/competence,assister à des foires commerciales,participer à des salons commerciaux
+http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462,developpeur,True,skill/competence,utiliser un logiciel de dessin technique,
+http://data.europa.eu/esco/skill/541cdc23-1eec-4520-81fc-3392eaf538ed,comptable,True,knowledge,détection des fraudes,
+http://data.europa.eu/esco/skill/5475343c-5e75-415f-b431-17f3c20a347e,logistique,False,skill/competence,utiliser un logiciel de planification de la production,
+http://data.europa.eu/esco/skill/54e60889-c5cc-435f-8d6d-7aefb67e993a,commercial,False,skill/competence,organiser la participation à des manifestations locales ou internationales,"organiser la participation à des événements internationaux
+organisation de la participation à des manifestations locales ou internationales
+mettre en place une participation à des événements internationaux
+établir une participation à des événements internationaux
+établir la participation à des événements locaux ou internationaux
+coordonner la participation aux événements internationaux
+organiser la participation à un événement international
+organisation de la participation à des manifestations internationales
+mettre en place une participation à des événements locaux ou internationaux
+établir une participation à des événements locaux ou internationaux"
+http://data.europa.eu/esco/skill/55e286cf-b8a0-40bd-9e87-276cbc0284b9,"commercial, logistique",False,knowledge,types d'avions,
+http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e,"commercial, comptable",True,skill/competence,analyser des procédures d’entreprise,
+http://data.europa.eu/esco/skill/56426cfa-6e92-4ed9-a632-f08849864588,comptable,False,skill/competence,examiner des portefeuilles de placement,
+http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a,commercial,True,skill/competence,utiliser un logiciel de système de gestion de contenu,
+http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50,developpeur,False,knowledge,ASP.NET,"Aspx
+ASP+
+ASP.NET 3.5
+ASP.NET 2.0"
+http://data.europa.eu/esco/skill/56c59e98-f133-48ad-9d01-f357a8e2c218,logistique,False,skill/competence,estimer une rentabilité,
+http://data.europa.eu/esco/skill/56ff27ef-2565-45bf-a70c-f06d78d2a480,commercial,True,skill/competence,élaborer un plan financier,
+http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143,commercial,True,,communication et collaboration numériques,
+http://data.europa.eu/esco/skill/585ed991-fdab-4f3c-9187-a32bfb7ab822,comptable,True,skill/competence,réaliser des opérations d’établissement de bilan,
+http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248,developpeur,False,knowledge,mesures de lutte contre les cyberattaques,"contrôles de sécurité cybernétique/numérique/IT/TIC/information
+cyber/numérique/informatique/TIC/contrôles de sécurité de l’information
+contre-mesures contre les cyberattaques
+mesures de sécurité des communications réseau
+mesures de cybersécurité
+mécanismes de cyberdéfense
+contre-mesures en cas de cyberattaque"
+http://data.europa.eu/esco/skill/58c3ed60-c06b-47c0-b213-4e3608608644,maintenance,False,skill/competence,utiliser un système de commande à distance,
+http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e,developpeur,False,knowledge,APL,
+http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,developpeur,False,knowledge,SQL,"Subquery
+Informix 4GL/SQL
+SEQUEL"
+http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,developpeur,False,knowledge,SQL,"Subquery
+Informix 4GL/SQL
+SEQUEL"
+http://data.europa.eu/esco/skill/59ea80e1-463a-4dba-82c6-d0b6d577d532,developpeur,True,knowledge,dessin industriel,dessin technique
+http://data.europa.eu/esco/skill/59fe85c4-8202-46ac-b6a5-e28ea25d1848,comptable,False,skill/competence,prévoir les indicateurs de comptes,
+http://data.europa.eu/esco/skill/5a234b3b-63b4-482f-b481-a1ff9d95bbf8,commercial,False,knowledge,matériel de bureau,
+http://data.europa.eu/esco/skill/5a23ed81-6c48-4631-a2a5-740f8079f50b,logistique,False,skill/competence,planifier la logistique de la chaîne d’approvisionnement pour des articles chaussants et des articles en cuir,
+http://data.europa.eu/esco/skill/5a29fbb3-3b5c-44f2-b07a-e84faa790088,maintenance,False,skill/competence,entretenir des capteurs,
+http://data.europa.eu/esco/skill/5aa57bdc-5765-435e-8fc9-99b3febdb213,rh,True,skill/competence,embaucher des ressources humaines,
+http://data.europa.eu/esco/skill/5aaf2780-04d7-4bbf-8b06-af36eafe8eba,logistique,False,knowledge,règles de gestion des stocks,
+http://data.europa.eu/esco/skill/5ac07f1a-6436-4103-b891-c59a7ac505f0,logistique,False,knowledge,produits de construction,
+http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d,developpeur,False,skill/competence,utiliser la programmation orientée objet,
+http://data.europa.eu/esco/skill/5bac4bcc-1846-4688-ba02-ad2b51544282,commercial,False,skill/competence,élaborer du matériel de communication inclusive.,
+http://data.europa.eu/esco/skill/5bbaa0e6-0fd7-4df2-9db7-34f78b40dc34,commercial,False,knowledge,gestion du marketing,gestion commerciale
+http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c,developpeur,False,knowledge,modélisation orientée objet,"programmation par objet
+programmation orientée objet
+paradigme de programmation orientée objet
+POO
+MOO
+modélisation par objet"
+http://data.europa.eu/esco/skill/5c12f164-3feb-41cf-8ede-2e02a7faf12a,maintenance,False,knowledge,procédés et techniques d’assemblage pour la confection d’articles chaussants type California,
+http://data.europa.eu/esco/skill/5c2a951c-9eb3-45a7-af45-39f3bf3a095d,comptable,False,knowledge,classification de la dette,
+http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e,developpeur,False,knowledge,WebCMS,
+http://data.europa.eu/esco/skill/5c99d21a-9d02-4638-9b52-a6ba840dcb0a,commercial,False,skill/competence,faire la synthèse d’informations financières,
+http://data.europa.eu/esco/skill/5ce80f97-b385-4a41-9339-a6593d0709c1,commercial,True,skill/competence,effectuer un montage vidéo,
+http://data.europa.eu/esco/skill/5cfd2ec5-ef34-4e3b-9397-e580b903d716,commercial,False,skill/competence,évaluer les performances de collaborateurs de l’organisation,
+http://data.europa.eu/esco/skill/5cfe62b1-98fe-43ed-93b9-902f2e434eb0,logistique,False,knowledge,produits du tabac,
+http://data.europa.eu/esco/skill/5d00929a-7124-488a-91c1-324bd75bf8ba,logistique,False,skill/competence,négocier des services logistiques,
+http://data.europa.eu/esco/skill/5d26851b-270a-4fbe-abeb-2bfd6eba3e2d,logistique,True,skill/competence,analyser des changements logistiques,
+http://data.europa.eu/esco/skill/5d2e82cc-5943-4218-a459-a1956fad2b63,logistique,False,skill/competence,gérer les stocks d’un entrepôt,
+http://data.europa.eu/esco/skill/5d34adde-0b78-42b4-9d3d-69e9388d8398,"commercial, maintenance",False,skill/competence,surveiller le contrôle de la qualité,
+http://data.europa.eu/esco/skill/5d53b4b5-f509-4dfd-9910-dd4a833af228,commercial,False,skill/competence,suivre les statistiques de l’industrie des médias,
+http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34,"commercial, logistique",True,skill/competence,analyser des plans d’entreprise,
+http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3,developpeur,False,knowledge,SPARQL,
+http://data.europa.eu/esco/skill/5e80353d-53ed-4e64-a5ff-0e3ec52156fa,logistique,True,skill/competence,gérer les opérations logistiques,"fonctions logistiques directes pour les cycles de vie des marchandises
+diriger des fonctions logistiques liées aux cycles de vie des matières premières
+fonctions logistiques directes pour les cycles de vie des produits de base
+diriger les fonctions logistiques pour les cycles de vie des marchandises
+fonctions logistiques directes pour les cycles de vie de la marque"
+http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333,developpeur,False,skill/competence,utiliser la programmation de scripts,
+http://data.europa.eu/esco/skill/5f1d1319-7954-4a9b-90c7-57668e3a0d4b,comptable,True,skill/competence,interpréter des états financiers,
+http://data.europa.eu/esco/skill/5f1ebff6-98ec-411f-a1d4-0bf04bd03bdf,comptable,True,skill/competence,vérifier des registres comptables,
+http://data.europa.eu/esco/skill/5f302d63-048e-451c-b150-97c124a5a26b,logistique,False,skill/competence,analyser des tendances économiques,
+http://data.europa.eu/esco/skill/5f95f9c9-30ee-4735-ab63-8045ec8f78f8,"commercial, logistique",False,knowledge,matériel agricole,
+http://data.europa.eu/esco/skill/5f97fac8-2001-4b81-ae8b-22f9062d921a,maintenance,False,skill/competence,identifier les risques sur un lieu de travail,
+http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a,"commercial, developpeur",True,skill/competence,élaborer des contenus numériques,
+http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e,developpeur,True,knowledge,outils de débogage TIC,
+http://data.europa.eu/esco/skill/6053cf28-2f42-44bb-8d27-a43920128b30,rh,False,skill/competence,recueillir des commentaires d'employés,
+http://data.europa.eu/esco/skill/60efd7d3-eee4-4f7d-9373-66a54d13b3e0,commercial,False,knowledge,techniques de neuromarketing,
+http://data.europa.eu/esco/skill/60f51172-37c0-4933-a27a-cbf55dcd7580,"commercial, comptable",True,skill/competence,préparer des états financiers,
+http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a,developpeur,False,skill/competence,stocker des données et des systèmes numériques,
+http://data.europa.eu/esco/skill/6122d586-5978-431f-8e7a-96e61fc1f3fc,maintenance,True,skill/competence,porter des équipements de protection appropriés,
+http://data.europa.eu/esco/skill/61268e22-9367-4c3b-91d9-b651e4c142e2,maintenance,False,knowledge,règles de sécurité incendie,
+http://data.europa.eu/esco/skill/61484ab7-e5da-4fc1-82bd-72c3fa6ffab3,logistique,False,skill/competence,vérifier une unité de transport de marchandises dangereuses,
+http://data.europa.eu/esco/skill/61c25570-ca90-45ed-ac1c-f7d0fc21b32d,comptable,True,skill/competence,inspecter les revenus d'un gouvernement,
+http://data.europa.eu/esco/skill/61cea229-2057-4687-ac14-62d8ea1419ad,maintenance,True,knowledge,équipements pour articles chaussants,
+http://data.europa.eu/esco/skill/61d9ad65-6a78-4c72-9824-aeca20d9a102,maintenance,True,skill/competence,entretenir des machines,
+http://data.europa.eu/esco/skill/629c9139-8a87-447b-8f61-bfe678cf3e7c,"commercial, logistique",False,knowledge,types de navires maritimes,"formes de transport maritime
+variété de navires maritimes
+modes de transport maritime
+catégories de navires de mer
+types de navires
+classification des navires
+différents types de navires maritimes
+classifications des navires
+catégories de navires"
+http://data.europa.eu/esco/skill/62d34066-f07a-4437-914b-0548ba8bbe59,maintenance,False,skill/competence,contrôler un convoyeur à bande,
+http://data.europa.eu/esco/skill/632a96bc-498c-48ea-a83f-fdc42d811a51,maintenance,False,skill/competence,respecter les consignes de sécurité de centrales nucléaires,
+http://data.europa.eu/esco/skill/6360d655-3494-45f6-bfc6-d5f63afc355b,maintenance,True,knowledge,réglementation sur la sécurité électrique,
+http://data.europa.eu/esco/skill/63e85fe0-f941-4f54-b4de-af6f8d43c176,commercial,False,skill/competence,travailler avec des professionnels de la publicité,
+http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d,developpeur,False,knowledge,Puppet (outils de gestion de configuration logicielle),
+http://data.europa.eu/esco/skill/646d871b-4503-4dc8-a076-06d7085e4cde,rh,False,skill/competence,Promouvoir les droits de l’homme,
+http://data.europa.eu/esco/skill/648782e0-b5e5-4e59-bed0-627aa8ac29f0,comptable,False,skill/competence,conserver des enregistrements de transactions financières,
+http://data.europa.eu/esco/skill/64be6a06-52e8-4f5c-b64d-caa516cfa291,comptable,True,knowledge,amortissement,dépréciation
+http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c,developpeur,True,skill/competence,écrire la documentation d’une base de données,"rédiger la documentation d’une base de données
+préparer la documentation d’une base de données
+créer la documentation d’une base de données
+produire la documentation d’une base de données
+fournir la documentation d’une base de données"
+http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97,"commercial, rh",True,skill/competence,mettre à profit les médias sociaux à des fins de marketing,
+http://data.europa.eu/esco/skill/650f44e2-cb4c-41ba-9095-581fe6bea4b1,logistique,False,skill/competence,coordonner les activités d'achat,
+http://data.europa.eu/esco/skill/6556cbf1-d5c0-4f53-89a9-8707066069a6,comptable,False,skill/competence,évaluer des budgets,
+http://data.europa.eu/esco/skill/65715f7a-c791-416b-b88a-2933a1c81647,maintenance,False,skill/competence,recruter du personnel,
+http://data.europa.eu/esco/skill/658a38bd-6954-4a2a-945c-42330c5d13b9,comptable,True,skill/competence,gérer les comptes bancaires d’une entreprise,
+http://data.europa.eu/esco/skill/65a3a184-7d11-4db9-9b85-281961d1514b,maintenance,True,skill/competence,effectuer des contrôles systématiques des machines,
+http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,developpeur,False,knowledge,logiciel de visualisation des données,logiciel de présentation de données
+http://data.europa.eu/esco/skill/66baba7d-178e-4c51-935f-03a9049ff2f6,comptable,False,skill/competence,communiquer avec des professionnels du secteur bancaire,
+http://data.europa.eu/esco/skill/66d47084-9437-48b2-819b-c4c8214ed650,rh,True,skill/competence,interviewer des gens,
+http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61,"commercial, logistique, maintenance",True,knowledge,responsabilité sociale des entreprises,"responsabilité sociétale des entreprises
+RSE"
+http://data.europa.eu/esco/skill/66fda9e5-f9f7-4342-b4f1-23355bcdd0b9,commercial,False,skill/competence,élaborer des outils promotionnels,
+http://data.europa.eu/esco/skill/670f8eea-f25b-4c3f-97ef-a4729d4c63d6,developpeur,False,knowledge,contrat intelligent,
+http://data.europa.eu/esco/skill/6742977a-aa00-4c8c-9861-898b0373907e,logistique,False,skill/competence,donner des conseils sur les politiques de gestion durable,
+http://data.europa.eu/esco/skill/676fdcdf-c4ae-4bdd-af92-444392b06a31,"commercial, logistique",False,knowledge,produits laitiers et produits oléagineux comestibles,
+http://data.europa.eu/esco/skill/6789defa-dc57-42a8-b2ed-2b8c349aa3e2,rh,False,skill/competence,déterminer des salaires,
+http://data.europa.eu/esco/skill/67dbfc2a-3dd4-41a1-90bd-97035e7add60,commercial,False,skill/competence,suivre le fil d'actualité de médias sociaux,
+http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,"commercial, rh",True,skill/competence,identifier les besoins des clients,
+http://data.europa.eu/esco/skill/68823c35-3033-45df-931c-7b01646006c8,logistique,False,knowledge,"poissons, crustacés et mollusques",
+http://data.europa.eu/esco/skill/68b51538-b056-4cb3-bb15-ab8c3e576cc9,comptable,True,skill/competence,suivre des comptes débiteurs,
+http://data.europa.eu/esco/skill/68b6ef08-d823-489d-a95c-752ae6f6e6a7,maintenance,True,skill/competence,lire des plans standard,
+http://data.europa.eu/esco/skill/68e66ed6-a171-4350-8ec1-2cfc4cae50e4,maintenance,False,knowledge,hydraulique,"fondamentaux des transmissions hydrauliques
+domaine des transmissions hydrauliques
+principes des transmissions hydrauliques
+science de l'hydraulique
+domaine de l'hydraulique
+caractéristiques des transmissions hydrauliques
+fondamentaux de l'hydraulique
+hydromécanique
+caractéristiques de l'hydraulique
+principes de l'hydraulique
+principes fondamentaux des transmissions hydrauliques
+science des transmissions hydrauliques
+principes fondamentaux de l'hydraulique"
+http://data.europa.eu/esco/skill/68e73bf6-2838-4705-86f4-e4bda4ac8a6f,logistique,False,skill/competence,prévoir la demande en produits,
+http://data.europa.eu/esco/skill/692ace70-7f97-4214-92bd-88f7637d8a44,maintenance,True,knowledge,physique,sciences physiques
+http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,maintenance,False,knowledge,extraction de l’information,
+http://data.europa.eu/esco/skill/6975d035-4523-4a5d-89ea-e414a473e077,logistique,False,knowledge,"sucre, chocolat et confiseries",
+http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28,developpeur,True,knowledge,programmation web,"HTML
+XHTML
+XML
+programmation web côté serveur
+langage de programmation web
+programmation web côté client
+langages de balisage"
+http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb,developpeur,False,knowledge,STAF,
+http://data.europa.eu/esco/skill/69f23426-9279-4fe6-a283-24c2aa4c855d,"logistique, maintenance",True,skill/competence,garantir la disponibilité d'équipements,
+http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab,developpeur,True,skill/competence,gérer un projet d'ingénierie,
+http://data.europa.eu/esco/skill/6ae8306a-4f9d-4410-ac82-6406f3cbd16a,commercial,False,skill/competence,gérer des systèmes bureautiques,
+http://data.europa.eu/esco/skill/6b3afb82-c4ea-4f14-be54-a757fb762663,developpeur,False,knowledge,Vagrant,
+http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9,developpeur,False,skill/competence,développer à l’aide des services d’informatique en nuage,
+http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea,developpeur,False,knowledge,Eclipse (environnement de développement intégré),
+http://data.europa.eu/esco/skill/6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,maintenance,False,skill/competence,superviser des opérations de montage,
+http://data.europa.eu/esco/skill/6bc02a4a-66af-4b49-9bd3-d07695d52b42,commercial,True,skill/competence,respecter le code éthique des entreprises,
+http://data.europa.eu/esco/skill/6bc57b80-37c8-4c9a-be7b-960d2e44fb77,maintenance,False,skill/competence,communiquer en langue étrangère sur des questions commerciales et techniques,
+http://data.europa.eu/esco/skill/6bf6b5bd-6658-4338-b0ee-dc143e68e6d3,comptable,False,skill/competence,apporter une aide dans des calculs financiers,
+http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511,developpeur,False,skill/competence,concevoir un schéma de base de données,
+http://data.europa.eu/esco/skill/6c65bbce-15ce-447e-9666-0fe928f5588c,maintenance,False,skill/competence,tester des unités mécatroniques,
+http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5,commercial,True,skill/competence,appliquer un raisonnement stratégique,
+http://data.europa.eu/esco/skill/6cb9c23b-e3bc-4917-b588-26c4cef9d920,maintenance,True,knowledge,opérations de maintenance,"entretien, réparation et révision
+entretien et réparations
+entretien, réparation et exploitation
+entretien électrique
+MRO
+entretien et réparation"
+http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0,developpeur,False,knowledge,WordPress,
+http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8,commercial,True,skill/competence,prospecter de nouveaux clients,
+http://data.europa.eu/esco/skill/6e250b10-f197-4045-b9c5-53837b044554,logistique,False,knowledge,"produits textiles, produits textiles semi-finis et matières premières",
+http://data.europa.eu/esco/skill/6e34b68e-0d61-49f2-bc4d-571c0326d857,maintenance,False,skill/competence,tester des capteurs,
+http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b,commercial,False,knowledge,protocoles de communication dans le domaine des TIC,"protocoles de communication dans le domaine des TI
+protocoles réseau
+suite TCP/IP
+HTTP
+protocoles de communication dédiés aux TIC
+protocoles de communication des TIC"
+http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0,logistique,False,knowledge,gestion des risques,
+http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab,developpeur,False,knowledge,ingénierie de sécurité,"ingénierie de la sécurité des systèmes
+gestion de la sécurité
+ingénierie de la sécurité des réseaux
+ingénierie de sécurité des réseaux
+ingénierie de la sécurité de l'information"
+http://data.europa.eu/esco/skill/6f45a77d-9208-40f2-a116-ac99c77ef580,"commercial, logistique",False,knowledge,règles internationales en matière de transactions commerciales,
+http://data.europa.eu/esco/skill/6f5850ea-5785-4e2c-b062-743066fd5bdb,maintenance,True,knowledge,législation environnementale,"loi sur l'environnement
+réglementation environnementale"
+http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88,developpeur,False,knowledge,SQL Server Integration Services,
+http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed,developpeur,False,knowledge,Ansible,
+http://data.europa.eu/esco/skill/6f8f86f8-0ef9-4dd6-8e29-7d790e65706b,comptable,False,skill/competence,calculer des coûts de production,
+http://data.europa.eu/esco/skill/6f993130-082b-4732-b62f-52cdf2096ad9,logistique,True,skill/competence,utiliser des méthodes d'analyse des données logistiques,
+http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c,developpeur,True,knowledge,intégration de systèmes de TIC,"intégration des TIC
+combinaison de systèmes de TIC
+fusion de systèmes de TIC
+intégration des systèmes de TIC
+intégration de système informatiques
+intégration de systèmes"
+http://data.europa.eu/esco/skill/6fce8d3f-a15f-4f26-943a-d200b32f6949,rh,False,skill/competence,surveiller la politique d'une entreprise,
+http://data.europa.eu/esco/skill/70198e4e-86ad-4acc-a9eb-e24e2c107d18,"commercial, logistique",False,knowledge,machines,
+http://data.europa.eu/esco/skill/7049ac98-0368-4bb2-84d4-5366d1c0f2ac,commercial,False,skill/competence,effectuer une analyse de la concurrence en ligne,
+http://data.europa.eu/esco/skill/70a7b3b3-31ef-4b29-a30f-bb7299dff39b,maintenance,False,knowledge,capteurs,
+http://data.europa.eu/esco/skill/71057622-0cc1-4cce-b36c-b32a7071b017,rh,False,skill/competence,faciliter l’accès au marché du travail,
+http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388,"commercial, developpeur, logistique",True,knowledge,gestion de projets,"gestion de programmes
+principes de gestion du programme
+fondamentaux de la gestion des programmes
+principes de gestion de projet
+activités de gestion de projet
+activités de gestion du programme
+gestion du programme
+fondamentaux de la gestion de projet"
+http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e,logistique,False,skill/competence,négocier des contrats de vente,
+http://data.europa.eu/esco/skill/71477613-b6f6-4179-a56d-7a937e099b5f,maintenance,True,skill/competence,gérer des installations de fabrication,
+http://data.europa.eu/esco/skill/71746a0b-e58d-4dc4-ad03-bd84082eae21,developpeur,True,skill/competence,recueillir les commentaires des clients sur des applications,"recueillir les réactions des clients sur des applications
+recueillir le feedback des clients sur des applications
+recueillir les remarques des clients sur des applications
+recueillir les retours des clients sur des applications
+analyser les intérêts du consommateur
+recueillir l’opinion des clients sur des applications
+recueillir les avis des clients sur des applications"
+http://data.europa.eu/esco/skill/71ae4f64-6505-4b6f-91b9-5acfa5721798,comptable,True,skill/competence,obtenir des informations financières,
+http://data.europa.eu/esco/skill/71dde84c-0058-4c52-a556-523369333db8,"comptable, logistique",True,skill/competence,utiliser des systèmes bureautiques,
+http://data.europa.eu/esco/skill/7229b6dc-e2ef-44fe-b9a1-06b1c1075d8f,maintenance,False,knowledge,système de régulation automatique,"système d'autocontrôle
+système de contrôle mécanisé
+système de contrôle autonome
+système de contrôle automatisé"
+http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3,logistique,False,knowledge,recherche opérationnelle,analyse des opérations
+http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa,rh,False,skill/competence,évaluer une formation,
+http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919,"developpeur, maintenance",True,knowledge,processus d'ingénierie,
+http://data.europa.eu/esco/skill/72c02483-714c-47de-a3ff-870c5eb634d0,comptable,False,skill/competence,résoudre des cas complexes d’imputation comptable,
+http://data.europa.eu/esco/skill/7341904f-5913-470c-8c53-bc832df248ec,maintenance,False,skill/competence,entretenir du matériel robotique,
+http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4,developpeur,True,skill/competence,utiliser des méthodes de conception centrée sur l’utilisateur,"employer des méthodes de conception centrée sur l’utilisateur
+préparer la démarche de conception centrée sur l’utilisateur
+utiliser des méthodes de conception orientée utilisateur
+avoir recours à la conception centrée sur l’utilisateur
+utiliser des techniques de conception centrée sur l’utilisateur
+utiliser la méthodologie de conception centrée sur l’utilisateur"
+http://data.europa.eu/esco/skill/736ef286-fbd3-4e5c-a4b4-d1e2008c9898,commercial,True,skill/competence,planifier des stratégies de marketing numérique,"planifier les stratégies opérationnelles de marketing numérique
+programmer les stratégies de marketing numérique"
+http://data.europa.eu/esco/skill/73de691d-d112-444b-a99f-606888fa9414,logistique,False,knowledge,moyens de transport,
+http://data.europa.eu/esco/skill/73e7e2f4-7e5f-4e6c-86c2-3b5fbd191172,rh,True,skill/competence,assurer le respect de la vie privée des usagers,
+http://data.europa.eu/esco/skill/74374d09-7a54-4a05-ae78-d5940423de7c,maintenance,True,skill/competence,utiliser du matériel d’essai,
+http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5,logistique,False,skill/competence,procéder au dépannage des TIC,
+http://data.europa.eu/esco/skill/74688c5d-2af1-4f7a-9d1c-00e808eaa1e6,comptable,True,knowledge,principes budgétaires,
+http://data.europa.eu/esco/skill/746d4d58-7e6b-417c-a0b3-3f0c44564a2e,maintenance,False,skill/competence,organiser les politiques de gestion d’installations,
+http://data.europa.eu/esco/skill/74cb80c4-df6b-4d79-a153-cb7b3b3b6eb0,commercial,False,skill/competence,planifier des campagnes de marketing sur les médias sociaux,
+http://data.europa.eu/esco/skill/750caee5-12a0-46ba-b8aa-1e56370deaf9,"commercial, logistique",False,skill/competence,analyser les tendances d’achat de consommateurs,
+http://data.europa.eu/esco/skill/750f86d2-18be-4015-84b1-d4a26d9b2d88,commercial,True,knowledge,techniques de campagne publicitaire en ligne,
+http://data.europa.eu/esco/skill/753b1781-ea44-4eea-b84a-f8a76fbd6c4d,maintenance,False,skill/competence,installer des systèmes hydrauliques,
+http://data.europa.eu/esco/skill/756ae350-9e1f-4cb9-9c27-6bd99806dadc,commercial,True,knowledge,techniques de promotion des ventes,techniques promotionnelles
+http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d,developpeur,False,skill/competence,utiliser des langages de requête,
+http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c,developpeur,False,knowledge,NoSQL,
+http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08,logistique,True,skill/competence,recenser les logiciels de gestion d’entrepôts,
+http://data.europa.eu/esco/skill/77931759-69af-4637-8b26-c8376f9240e2,logistique,False,knowledge,affaires internationales,"commerce international
+affaires transfrontalières"
+http://data.europa.eu/esco/skill/77e7cb08-2c6f-42ab-881b-b34b2318acbe,comptable,False,skill/competence,gérer des systèmes administratifs,
+http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42,developpeur,False,knowledge,législation sur la sécurité des TIC,"législation relative à la sécurité des TIC
+législation en matière de cybersécurité
+aspects juridiques de l’informatique
+droit des TIC
+législation en matière de sécurité des réseaux et de l’information
+lois relatives à la sécurité des TIC"
+http://data.europa.eu/esco/skill/781797f4-c2c3-49a4-a80d-eb81eb4f818c,comptable,False,knowledge,gestion des liquidités,gestion de liquidité
+http://data.europa.eu/esco/skill/786a74d6-7ecd-44d5-ae4f-87ff02fe3dbf,rh,True,skill/competence,évaluer un caractère,
+http://data.europa.eu/esco/skill/78fc4e90-a522-480a-a2f0-21ff3dfe6ba7,maintenance,False,skill/competence,réparer des composants de batteries,
+http://data.europa.eu/esco/skill/7957b5f9-1f33-4ff8-84e9-e258b17882c2,maintenance,True,skill/competence,tester des appareils microélectroniques,
+http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4,developpeur,True,skill/competence,développer un prototype de logiciel,"développer un logiciel prototype
+développer des prototypes de logiciels
+construire un prototype de logiciel
+créer un prototype de logiciel
+concevoir un prototype de logiciel
+développer un logiciel de mockup"
+http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7,maintenance,False,skill/competence,optimiser une production,
+http://data.europa.eu/esco/skill/79aa4ec0-399d-432e-aae8-7a390ce89bcc,maintenance,False,skill/competence,effectuer l’entretien du matériel installé,
+http://data.europa.eu/esco/skill/79c36c91-28a5-44b7-ab9b-7093b2d4b21e,comptable,False,skill/competence,donner des conseils en finance,
+http://data.europa.eu/esco/skill/7a1dcd86-8c78-40a8-b446-269438f24d72,commercial,False,knowledge,activités des filiales,
+http://data.europa.eu/esco/skill/7a66b8a3-502f-408e-ac69-46e72dec6ede,commercial,False,skill/competence,supporter la pression face à l’imprévu,
+http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800,maintenance,False,skill/competence,élaborer une stratégie pour résoudre les problèmes,mettre au point une stratégie de résolution de problèmes
+http://data.europa.eu/esco/skill/7a950986-27fe-4b6c-adf3-88f211e77019,maintenance,False,knowledge,composants robotiques,
+http://data.europa.eu/esco/skill/7ae62140-fe02-4ee3-a0c5-fb5668a2870d,commercial,False,knowledge,protection des consommateurs,
+http://data.europa.eu/esco/skill/7bf0c60a-9303-414b-a43c-21c28a98d4ff,logistique,False,knowledge,itinéraires géographiques,
+http://data.europa.eu/esco/skill/7c127140-3a91-4fe2-b33e-12567d78ef0f,maintenance,False,knowledge,gaz combustible,
+http://data.europa.eu/esco/skill/7c32a84c-2733-4bc7-8909-3b3413c9cc88,logistique,False,skill/competence,"gérer les hébergements, transports et activités","coordonner les hébergements  les transports et les activités
+réserver les hébergements  les transports et les activités"
+http://data.europa.eu/esco/skill/7c3865d1-e5a9-4043-a7a4-2e9e30468c0b,logistique,True,skill/competence,assurer des activités administratives de routine,
+http://data.europa.eu/esco/skill/7c7cf091-5139-4a1d-a6cd-0df9edc8f34d,maintenance,False,skill/competence,appliquer des techniques d’assemblage pour la confection d’articles chaussants type soudés,
+http://data.europa.eu/esco/skill/7c821387-b428-4f75-b5a7-7b038aa81cfd,logistique,False,skill/competence,utiliser un système de gestion d’entrepôt,
+http://data.europa.eu/esco/skill/7c8a86b2-b0ae-4969-901a-5949d9974755,maintenance,False,skill/competence,utiliser un testeur de batterie,
+http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed,developpeur,False,skill/competence,utiliser la programmation automatique,"utiliser un atelier de génie logiciel
+utiliser un AGL
+utiliser la programmation graphique
+utiliser la programmation visuelle
+utiliser des outils CASE"
+http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0,commercial,True,knowledge,gestion des coûts,
+http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3,developpeur,False,skill/competence,réaliser des audits informatiques,"exécuter des audits de sécurité informatique
+exécuter des audits de sécurité de l'information
+réaliser des audits de sécurité des TIC
+exécuter des audits de sécurité des TIC
+exécuter des audits de cybersécurité
+réaliser des audits de sécurité informatique"
+http://data.europa.eu/esco/skill/7e305865-5b6d-4225-a4f7-ee5c10aaa134,comptable,False,skill/competence,effectuer des activités de recouvrement,
+http://data.europa.eu/esco/skill/7e6509bd-9642-4af5-bad3-5b2cec29b6f9,logistique,True,skill/competence,contrôler des seuils de réapprovisionnement,
+http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,"comptable, logistique",True,knowledge,statistiques,
+http://data.europa.eu/esco/skill/7f7756fc-d89d-41d5-93ef-85991603f4ad,"commercial, comptable, logistique",True,skill/competence,gérer le risque financier,
+http://data.europa.eu/esco/skill/7f783956-f734-4d56-85de-10f0c1706f8a,commercial,True,skill/competence,enregistrer les données personnelles de clients,
+http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337,"maintenance, rh",True,skill/competence,utiliser des techniques de communication,
+http://data.europa.eu/esco/skill/8029637c-00eb-4764-ae88-387611176c4b,logistique,True,skill/competence,analyser des besoins logistiques,
+http://data.europa.eu/esco/skill/8071881c-d652-46e7-9cf4-e06a7f1e57c7,maintenance,False,skill/competence,gérer les incidents majeurs,
+http://data.europa.eu/esco/skill/811acf0c-4dd7-4dda-a4fa-7ca498a95204,rh,True,skill/competence,négocier des contrats de travail,
+http://data.europa.eu/esco/skill/812590e4-7108-4016-baba-957dcf8213ae,commercial,False,skill/competence,se tenir au courant de la situation politique,
+http://data.europa.eu/esco/skill/81513fdf-5ea9-4375-9bc4-67ad959ac5de,commercial,True,skill/competence,contacter des clients,
+http://data.europa.eu/esco/skill/81633a44-f1db-4a01-a940-804c6905e330,developpeur,False,skill/competence,utiliser un logiciel de traitement de texte,
+http://data.europa.eu/esco/skill/81665015-4963-472c-9b5a-f2cf13ae9de0,maintenance,False,knowledge,instrumentation des centrales électriques,
+http://data.europa.eu/esco/skill/816cb632-848e-43ee-9be0-d13b685498f8,comptable,False,knowledge,joint-ventures,"coentreprises
+entreprises conjointes
+entreprises communes"
+http://data.europa.eu/esco/skill/818c2b89-1335-4443-ada7-e1046862e273,maintenance,False,skill/competence,installer des composants d’automatisation,
+http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd,maintenance,False,skill/competence,analyser des données de tests,
+http://data.europa.eu/esco/skill/81b082fb-9a00-4660-976a-10c985979100,developpeur,False,knowledge,IBM InfoSphere Information Server,
+http://data.europa.eu/esco/skill/81d274bc-6dbf-4003-bcba-f76478d5d930,maintenance,False,knowledge,énergie nucléaire,
+http://data.europa.eu/esco/skill/81dc035c-921b-4fea-a453-94538e86097c,rh,False,skill/competence,communiquer des messages aux gens,
+http://data.europa.eu/esco/skill/8269dc3d-50ee-46b5-a742-a7d2cb7d90bb,maintenance,True,skill/competence,vérifier l’absence d’articles endommagés,
+http://data.europa.eu/esco/skill/827ebc71-b406-483e-9617-33c63dd487a0,maintenance,False,skill/competence,estimer les coûts de restauration,
+http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917,developpeur,False,skill/competence,utiliser des outils de sauvegarde et de récupération,
+http://data.europa.eu/esco/skill/82fea746-853f-4f1b-8ab7-55de8619cccd,"logistique, maintenance",False,knowledge,production au plus juste,
+http://data.europa.eu/esco/skill/834c3caf-077c-4d38-883f-1baa2e470efa,logistique,False,knowledge,"cuirs, peaux et articles en cuir",
+http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433,"developpeur, maintenance",False,skill/competence,utiliser l’apprentissage automatique,
+http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259,developpeur,False,knowledge,Microsoft Visual C++,
+http://data.europa.eu/esco/skill/83e97138-899a-4af8-9187-47823e875841,"commercial, comptable",True,skill/competence,respecter des obligations légales,
+http://data.europa.eu/esco/skill/84251cb1-babf-4d17-a3cd-baa642c24c8d,developpeur,False,knowledge,IBM Informix,
+http://data.europa.eu/esco/skill/84cc8c9d-db57-42ec-8948-9b632bf06124,maintenance,False,knowledge,chimie des batteries,
+http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410,"comptable, developpeur",False,knowledge,logiciels bancaires,"application bancaire principale
+application bancaire de base"
+http://data.europa.eu/esco/skill/85038d57-1fdd-40de-b908-2c005545a8c3,developpeur,False,knowledge,SketchBook Pro,
+http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079,logistique,True,skill/competence,dispenser une formation sur l’efficacité opérationnelle aux employés,
+http://data.europa.eu/esco/skill/85aa1871-db96-42f7-801f-c39f924de2d7,maintenance,True,skill/competence,organiser le travail par équipe,
+http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783,developpeur,True,skill/competence,interpréter des textes techniques,
+http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68,developpeur,False,knowledge,TypeScript,
+http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e,developpeur,True,knowledge,standards du World Wide Web Consortium,"HTML
+XHTML
+XML
+SPARQL
+RDF
+PNG
+HTML5
+normes du World Wide Web Consortium
+SOAP
+spécifications techniques développées par le World Wide Web Consortium
+CSS
+normes du W3C
+standards du W3C
+XSL
+SVG"
+http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8,"commercial, developpeur",True,skill/competence,appliquer des politiques de sécurité de l’information,"appliquer des politiques relatives à la sécurité de l’information
+mettre en œuvre des politiques de sécurité de l’information
+garantir la confidentialité de l’information
+mettre en place des politiques de sécurité de l’information
+appliquer des politiques en matière de sécurité de l’information
+respecter la réglementation en matière de protection des données"
+http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6,developpeur,False,knowledge,Microsoft Visio,
+http://data.europa.eu/esco/skill/8744f28f-59a9-45af-8ef6-6944cb5a1473,commercial,True,knowledge,recensement des risques,
+http://data.europa.eu/esco/skill/875eeec4-fc70-4e6a-80ef-4d18356976e3,logistique,False,skill/competence,prévoir la charge de travail,
+http://data.europa.eu/esco/skill/8764d4b1-e069-44f2-8baa-fb1eee1850ec,developpeur,False,knowledge,Oracle Application Development Framework,
+http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be,developpeur,False,knowledge,JSSS,
+http://data.europa.eu/esco/skill/87a6436a-c83f-4afe-a93a-d807a988e0ec,maintenance,True,skill/competence,entretenir des appareils microélectroniques,
+http://data.europa.eu/esco/skill/87cadd76-4e3a-47e5-b66d-559fbc1e8993,commercial,False,skill/competence,répondre à des demandes de renseignements,
+http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b,commercial,True,skill/competence,négocier avec des parties prenantes,
+http://data.europa.eu/esco/skill/88033500-d3a7-4a94-ba88-0f1680b9d017,maintenance,True,knowledge,technologie de montage en surface,CMS
+http://data.europa.eu/esco/skill/8804d963-5a31-4609-b5df-f741b7199fb7,comptable,False,knowledge,audit interne,
+http://data.europa.eu/esco/skill/880c54f9-866e-4f37-b5fa-25ef8a7d49b6,comptable,True,knowledge,techniques comptables,techniques de comptabilité
+http://data.europa.eu/esco/skill/881cd4ec-5b52-46c6-abc4-60551d58b355,maintenance,True,skill/competence,réaliser des croquis techniques de vêtements de créateurs,
+http://data.europa.eu/esco/skill/885808f7-f42b-406e-95f2-28efcd45ddda,maintenance,True,skill/competence,assurer la gestion énergétique d’installations,
+http://data.europa.eu/esco/skill/887a5c70-5524-4c7d-96cc-6cdcf1c5309f,maintenance,False,skill/competence,inspecter les installations techniques de bâtiments,
+http://data.europa.eu/esco/skill/8899ee6c-7df4-41dd-9dc5-36be940864ee,logistique,False,skill/competence,coordonner les activités de transport à l'exportation,
+http://data.europa.eu/esco/skill/88af9294-b697-4687-ae19-aefbb6234dfa,"comptable, logistique",True,knowledge,économie,
+http://data.europa.eu/esco/skill/89ba58e8-a67e-4d2b-ad42-6acab25c241b,rh,False,skill/competence,évaluer les commentaires des clients,"analyser les commentaires des clients
+évaluer les retours des clients
+mesurer les commentaires des clients"
+http://data.europa.eu/esco/skill/89c1d71c-f443-4e60-a7c3-f824ecb10597,commercial,False,knowledge,types de médias,
+http://data.europa.eu/esco/skill/89f88666-e7cf-4659-9f6f-3a6ff65789b7,logistique,False,knowledge,"meubles, tapis et produits d'éclairage",
+http://data.europa.eu/esco/skill/89ff28d6-342c-435d-83aa-83e71dbbbc96,comptable,True,skill/competence,réaliser des audits financiers,
+http://data.europa.eu/esco/skill/8a326ee1-169c-4c44-b38b-8f1bb20ec79b,comptable,True,skill/competence,détecter des erreurs comptables,
+http://data.europa.eu/esco/skill/8a43795b-bb38-4f29-91df-a6c92ad4643c,comptable,True,skill/competence,analyser les performances financières d’une entreprise,
+http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31,maintenance,True,skill/competence,assurer la maintenance de machines,
+http://data.europa.eu/esco/skill/8a753714-9a19-4418-9b37-77e79d72c705,maintenance,False,skill/competence,intégrer de nouveaux produits dans la fabrication,
+http://data.europa.eu/esco/skill/8a98707e-b2ee-48fe-9f36-e47e3555ecf7,maintenance,False,skill/competence,évaluer le travail d’employés,
+http://data.europa.eu/esco/skill/8add048c-4d51-41c5-8aa2-f57412c4a637,logistique,True,skill/competence,améliorer le flux de production,
+http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400,maintenance,False,knowledge,contrôle de la qualité totale,
+http://data.europa.eu/esco/skill/8b7409b0-e18e-4dfc-9ad9-8ddbcce38849,commercial,True,skill/competence,tenir des registres des interactions avec des clients,
+http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df,developpeur,True,skill/competence,utiliser des bibliothèques logicielles,"gérer des bibliothèques logicielles
+faire usage des bibliothèques logicielles
+utiliser des bibliothèques
+utiliser une bibliothèque logicielle
+accéder à des bibliothèques logicielles
+employer des bibliothèques logicielles"
+http://data.europa.eu/esco/skill/8bc11ec8-90a3-4d4d-aba3-1c48c71e8fe2,logistique,True,skill/competence,gérer des fournisseurs logistiques externes,
+http://data.europa.eu/esco/skill/8bc75dce-beba-40f9-93fc-66c9708ed74b,maintenance,True,skill/competence,donner des conseils en amélioration de l’efficacité,
+http://data.europa.eu/esco/skill/8c32f7d4-fc7e-4fde-ad70-66b5ad1acfa9,maintenance,False,skill/competence,contrôler des conditions ambiantes de traitement,
+http://data.europa.eu/esco/skill/8c474534-707f-46f3-b356-810bbfe8b693,maintenance,False,skill/competence,donner des conseils en matière de dysfonctionnements des machines,
+http://data.europa.eu/esco/skill/8c4b7305-4b83-4586-9d42-2817f96c60ea,comptable,True,skill/competence,poser des questions en se référant à des documents,
+http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49,developpeur,False,skill/competence,développer des idées créatives,
+http://data.europa.eu/esco/skill/8c5d6b8a-55c9-4f5d-8d47-bf23e15ecb71,maintenance,True,skill/competence,gérer l’utilisation d’un espace,
+http://data.europa.eu/esco/skill/8c855071-e09d-4f08-9af9-bdc9de6d909e,commercial,False,skill/competence,réaliser une étude sur des supports médias,
+http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b,developpeur,False,knowledge,Ajax Framework,
+http://data.europa.eu/esco/skill/8cf03262-b6b0-4fe8-9d66-91063bb32db3,maintenance,False,knowledge,composants de batteries,
+http://data.europa.eu/esco/skill/8d202e22-85e9-47b1-a1e0-3296d17244cd,"comptable, rh",True,skill/competence,respecter la confidentialité,
+http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e,"logistique, maintenance",True,knowledge,normes de qualité,
+http://data.europa.eu/esco/skill/8d5ee30c-4b1c-465f-84a1-7bb7a05aaca6,comptable,True,skill/competence,superviser des activités bancaires,
+http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40,commercial,True,skill/competence,suivre des indicateurs clés de performance,
+http://data.europa.eu/esco/skill/8df3dcf5-8ede-4e03-a69c-c8cf01eff429,logistique,False,knowledge,viande et de produits à base de viande,viandes et produits carnés
+http://data.europa.eu/esco/skill/8df59017-f8e3-4a48-b321-79a38c597748,rh,False,skill/competence,gérer des tests,
+http://data.europa.eu/esco/skill/8ebb2c0a-0baa-43bf-95cf-094047c57427,rh,True,skill/competence,assurer une gestion administrative professionnelle,
+http://data.europa.eu/esco/skill/8ee39fb7-8b46-490e-ae21-6e8b32854dd6,logistique,True,skill/competence,gérer les systèmes logiciels d'expédition,
+http://data.europa.eu/esco/skill/8eebf05f-4495-4fd5-b1f0-cb85750295be,maintenance,False,skill/competence,entretenir des systèmes hydrauliques,
+http://data.europa.eu/esco/skill/8f1a24be-d770-470d-94c8-d074f4087754,"commercial, logistique",False,knowledge,"produits de quincaillerie, de plomberie et de chauffage",
+http://data.europa.eu/esco/skill/8f9e8842-94f3-48d5-8d09-c43829bcabc5,comptable,False,skill/competence,communiquer avec des actionnaires,
+http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3,developpeur,True,skill/competence,créer un organigramme de programmation,
+http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7,developpeur,False,knowledge,menaces de sécurité des applications web,"menaces de sécurité des réseaux et de l’information
+menaces de sécurité d’une application web
+menaces de sécurité des sites web
+OWASP
+problèmes de sécurité des applications web
+dangers de sécurité des applications web"
+http://data.europa.eu/esco/skill/9035afc4-5317-455d-ab60-f32e2ecc6bfc,developpeur,False,knowledge,plateformes de chaînes de blocs,
+http://data.europa.eu/esco/skill/906c9e66-bdee-4f8e-93d7-88d9fcf39a0a,rh,True,skill/competence,fixer des rendez-vous,
+http://data.europa.eu/esco/skill/90a4035a-f72e-48d3-9d4e-1c6be84c9ae5,logistique,True,skill/competence,communiquer avec les expéditeurs,
+http://data.europa.eu/esco/skill/91003b4a-f2aa-4472-a9c1-4597abb518f2,comptable,False,knowledge,loi sur l'insolvabilité,
+http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016,developpeur,False,knowledge,Interaction homme-machine,"IHM
+interaction avec les machines
+interfaces homme-machines
+périphériques IHM
+Interactions homme-machine
+outil de contrôle et de communication"
+http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a,"developpeur, maintenance",False,skill/competence,exécuter des tests de logiciel,
+http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55,rh,True,skill/competence,rédiger des rapports sur le travail,
+http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd,developpeur,False,skill/competence,contrôler la performance du système,"contrôler l’historique du système
+contrôler l’activité du système
+surveiller l’activité du système
+suivre la performance du système
+surveiller la performance du système
+suivre l’activité du système
+contrôler la performance du système informatique"
+http://data.europa.eu/esco/skill/91ba97f5-7518-4638-b2d2-308996db3cf8,commercial,True,skill/competence,effectuer un montage d'images,
+http://data.europa.eu/esco/skill/91be6910-bd67-4e1f-95b0-32513b399b24,maintenance,True,skill/competence,communiquer les problèmes à ses supérieurs,
+http://data.europa.eu/esco/skill/922032c3-9dfa-45dd-9bcd-f14dedf4709e,"commercial, logistique",False,knowledge,boissons,
+http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde,developpeur,True,knowledge,environnement de développement intégré,"Eclipse
+environnements de programmation
+environnements de développement logiciel
+EDI
+outil de tests unitaires
+Visual Studio
+développement logiciel"
+http://data.europa.eu/esco/skill/925cb6fb-9506-48a5-9106-400088a4a436,comptable,True,skill/competence,organiser un audit,
+http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7,"commercial, logistique, maintenance",False,skill/competence,gérer des contrats,
+http://data.europa.eu/esco/skill/929e89f9-ac69-4bcb-9eea-37257aa5aff9,rh,True,skill/competence,préparer quelqu’un pour un entretien d’embauche,
+http://data.europa.eu/esco/skill/92e4064a-a93c-4e22-a63b-8da91757b90c,logistique,True,skill/competence,détecter les goulets d'étranglement,
+http://data.europa.eu/esco/skill/933e7ccf-5d56-46ba-aca4-857f826a6b3a,rh,True,skill/competence,gérer des rendez-vous,
+http://data.europa.eu/esco/skill/933e7ccf-5d56-46ba-aca4-857f826a6b3a,rh,True,skill/competence,gérer des rendez-vous,
+http://data.europa.eu/esco/skill/9379afee-37fd-419c-8c83-76e877b9f191,maintenance,True,knowledge,maintenance de machines de confection d’articles chaussants,
+http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71,developpeur,True,knowledge,plateformes collaboratives en ligne,"outils de collaboration numérique
+outils collaboratifs en ligne"
+http://data.europa.eu/esco/skill/941364b9-1375-4add-9889-d67bae99bc8c,maintenance,True,skill/competence,rédiger des rapports techniques,
+http://data.europa.eu/esco/skill/94193295-26de-42e5-a8e9-2ef7597e59f5,logistique,True,skill/competence,définir les principaux processus des systèmes de traçabilité,
+http://data.europa.eu/esco/skill/94747ff4-603d-47d4-9780-bf53be41e190,maintenance,True,skill/competence,inspecter des équipements industriels,
+http://data.europa.eu/esco/skill/94758266-bb0f-4e41-bedb-349ecacfaf5c,logistique,True,skill/competence,créer des bases de données sur les taux de fret,
+http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2,commercial,True,knowledge,planning stratégique,planification stratégique
+http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53,maintenance,False,skill/competence,collaborer avec des ingénieurs,
+http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d,developpeur,False,knowledge,gestion de projets TIC,
+http://data.europa.eu/esco/skill/953c0b65-537a-42fe-a90b-26cd36c64361,logistique,False,skill/competence,gérer la logistique,"gestion de la logistique
+réglementer la logistique
+réguler la logistique
+gestion logistique
+coordonner la logistique avec les contraintes et le travail souhaité
+adapter la logistique en fonction des travaux prévus
+coordonner la logistique
+gérer la logistique en fonction du travail souhaité
+gérer la logistique et le travail souhaité
+superviser la logistique
+maintenir la logistique"
+http://data.europa.eu/esco/skill/958b8802-ec3e-4813-97f7-6c8f48610dbd,"comptable, logistique",True,skill/competence,identifier les améliorations des processus,"planifier des actions d'amélioration
+identifier les opportunités d'amélioration des activités
+identifier les opportunités d'amélioration
+identifier des améliorations de processus
+trouver des opportunités d'amélioration
+déterminer les actions d'amélioration
+identifier les opportunités d'amélioration de l'entreprise
+identification des améliorations des processus
+identification des améliorations de processus
+compiler les actions d'amélioration
+sélectionner les actions d'amélioration
+identifier les opportunités d'amélioration des affaires
+identifier les améliorations de processus
+identification de l'amélioration des processus
+identifier les actions d'amélioration
+sélectionner des actions d'amélioration"
+http://data.europa.eu/esco/skill/95bff246-c3ce-4181-a11b-e4363453c2f8,maintenance,False,knowledge,normes de gestion environnementale,"ISO 14001
+ISO 14000
+système de management environnemental
+EMS"
+http://data.europa.eu/esco/skill/95c35c3a-035f-47c2-90cf-7e934d20fc08,maintenance,True,knowledge,électronique,
+http://data.europa.eu/esco/skill/96d549bb-3e62-4c45-92a7-f114df089581,logistique,True,skill/competence,analyser des stratégies de chaîne d’approvisionnement,
+http://data.europa.eu/esco/skill/96ec2d53-4f41-4172-8ef2-70742c4bb540,logistique,True,skill/competence,évaluer des risques fournisseurs,
+http://data.europa.eu/esco/skill/97902800-f9e0-4a73-8826-6cc42f874a18,logistique,True,knowledge,logistique verte,"éco-logistique
+logistique écologique"
+http://data.europa.eu/esco/skill/97b246e3-4f45-4708-9734-cd3158d868cf,commercial,True,skill/competence,faire preuve de motivation pour les ventes,
+http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,"logistique, rh",True,knowledge,droit du travail,
+http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378,maintenance,False,knowledge,analyse de données,
+http://data.europa.eu/esco/skill/97bdd757-29d4-4126-92a6-07608825aa3b,developpeur,False,knowledge,QlikView Expressor,
+http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb,commercial,False,knowledge,modélisation de processus d’entreprise,"UML
+optimisation de processus d’entreprise
+processus d’entreprise
+CPE
+modélisation de processus
+BPMN
+BPM"
+http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38,commercial,True,skill/competence,utiliser un logiciel de gestion de la relation avec le client,
+http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806,developpeur,True,knowledge,langage de requête Cadre de Description des Ressources,"langage de requête RDF
+langage de requête SPARQL
+OWL
+SPARQL
+langage de requête pour le cadre de description de ressource
+protocole simple et langage de requête RDF"
+http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d,developpeur,False,knowledge,CoffeeScript,
+http://data.europa.eu/esco/skill/99571e68-801f-49af-a897-5f75996642e1,comptable,True,knowledge,analyse financière,
+http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8,developpeur,False,knowledge,Objective-C,"Objective-C 2.0
+Obj-C
+Objective C++
+Smalltalk and C
+Object-C"
+http://data.europa.eu/esco/skill/9983816d-cc78-4d3f-9e3c-c7baa9ebc77a,logistique,False,knowledge,équipement informatique,
+http://data.europa.eu/esco/skill/999f0cf8-0d78-492c-be17-06ee15bce47a,maintenance,False,skill/competence,faire la simulation de modèles mécatroniques,
+http://data.europa.eu/esco/skill/99b163e8-7815-43e2-83f3-a47f3076354c,comptable,True,knowledge,écritures comptables,
+http://data.europa.eu/esco/skill/99ca6ed2-b6b8-4eb0-8180-92e750e546be,maintenance,False,skill/competence,se mettre en relation avec des responsables de l’assurance qualité,
+http://data.europa.eu/esco/skill/9af252ce-bf4d-411b-8daa-beb91df4257d,commercial,False,knowledge,marketing réseau,
+http://data.europa.eu/esco/skill/9b55d4b6-d015-4605-985e-5313a1e3face,maintenance,False,knowledge,fonctionnalités de machines,
+http://data.europa.eu/esco/skill/9b9dc550-351e-4dde-ac2b-7bd411e80e23,logistique,True,skill/competence,examiner les procédures de gestion de la distribution,
+http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067,developpeur,False,knowledge,JavaScript Framework,
+http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578,developpeur,True,skill/competence,équilibrer les ressources d’une base de données,
+http://data.europa.eu/esco/skill/9babbf24-1523-4b74-9770-c07c447920cc,logistique,False,knowledge,produits à base de fruits et légumes,
+http://data.europa.eu/esco/skill/9c3db86b-2cbf-4f8a-82e1-08533494c7a9,maintenance,False,skill/competence,entretenir des centrales électriques,
+http://data.europa.eu/esco/skill/9cd87d80-9718-47e1-9ed4-cd85cbfebd0a,maintenance,True,knowledge,microassemblage,micro-assemblage
+http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc,commercial,False,knowledge,spécifications relatives aux logiciels TIC,
+http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,developpeur,True,knowledge,langages de requête,
+http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051,developpeur,True,knowledge,outils d’extraction de transformation et de chargement,"extract  transform  load
+processus d’extraction  de transformation et de chargement
+extracto-chargeur
+ETL
+outils d’extraction  de transformation et de chargement de données
+datapumping
+outils d’ETL"
+http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f,developpeur,True,knowledge,outils de gestion de configuration logicielle,"logiciels de gestion de versions
+outil de gestion de configuration logicielle
+logiciels de gestion de la configuration logicielle
+GCL
+GIT
+gestion de versions"
+http://data.europa.eu/esco/skill/9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,"logistique, rh",True,skill/competence,communiquer avec des collègues,
+http://data.europa.eu/esco/skill/9d59f4e5-20a5-428e-b8b3-645043500457,"commercial, logistique",True,skill/competence,créer une atmosphère de travail d’amélioration continue,"donner aux équipes les moyens de s'améliorer en continu
+soutenir les équipes pour l'amélioration continue
+encourager une équipe pour l'amélioration continue
+conduire les équipes vers l'amélioration continue
+féliciter les équipes pour l'amélioration continue
+encourager les équipes à s'améliorer continuellement
+accompagner les équipes pour une amélioration continue
+encourager les équipes à s'améliorer en permanence
+encourager les équipes à s'améliorer en continu
+encourager les équipes à l'amélioration continue
+encourager une équipe à s'améliorer en continu
+développer une atmosphère de travail d'amélioration continue
+créer une atmosphère de travail d'amélioration continue
+responsabiliser les équipes pour l'amélioration continue
+animer les équipes pour une amélioration continue"
+http://data.europa.eu/esco/skill/9d916d7c-89b3-4084-a6d9-e2b0b3091404,rh,True,skill/competence,gérer des salaires,
+http://data.europa.eu/esco/skill/9d9ba780-4aa2-43d2-888c-95a41a713fb9,rh,False,skill/competence,présenter des nouveaux employés,
+http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c,developpeur,True,skill/competence,résoudre les problèmes des systèmes d’information,"gérer les problèmes des systèmes d’information
+résoudre les problèmes des systèmes des TIC
+résoudre les problèmes liés aux systèmes de TIC
+dépanner un système de TIC
+diagnostiquer les problèmes des systèmes d’information
+trouver des solutions aux problèmes des systèmes d’information"
+http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74,maintenance,False,skill/competence,exécuter les procédures de passation de marchés,
+http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe,developpeur,True,knowledge,outils de développement de bases de données,microcontrôleurs
+http://data.europa.eu/esco/skill/9effa3d7-c0c4-4583-ad94-b496ba5e5f2c,maintenance,False,knowledge,méthodes d'extraction de données,
+http://data.europa.eu/esco/skill/a031363f-f190-4449-96ee-4b347b077324,logistique,False,knowledge,produits d'appareils électroménagers,
+http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe,commercial,False,skill/competence,procéder à l’optimisation des moteurs de recherche,
+http://data.europa.eu/esco/skill/a0d79341-8398-4019-ad1b-27888ec35aaa,comptable,True,skill/competence,utiliser des systèmes de comptabilité,
+http://data.europa.eu/esco/skill/a0e23745-6ba4-45e2-9510-df6e71ed1230,rh,False,skill/competence,appliquer ses connaissances sur le comportement humain,
+http://data.europa.eu/esco/skill/a125a4c2-3b0a-4996-9a63-57043d4d9159,"commercial, logistique",False,knowledge,outils industriels,
+http://data.europa.eu/esco/skill/a1670c61-bc6a-4c40-9d98-88fb272f945a,commercial,False,knowledge,formats de médias,
+http://data.europa.eu/esco/skill/a16e3fc6-c77d-46e3-aa18-c691fed47fd1,logistique,True,knowledge,méthodes de transport de marchandises,"modalités de transport des marchandises
+modalités de transport de marchandises
+systèmes de transport de marchandises
+approches du transport de marchandises
+approches du transport maritime"
+http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de,rh,True,skill/competence,écouter activement,
+http://data.europa.eu/esco/skill/a1816dfd-dbdc-4499-bef3-ff81dd895b33,maintenance,False,knowledge,génie industriel,
+http://data.europa.eu/esco/skill/a1bbc0e9-58d1-4bbc-bf68-de5679bef07f,commercial,False,knowledge,publicité extérieure,
+http://data.europa.eu/esco/skill/a28df07f-976c-4eb4-b29a-06161af39756,maintenance,False,skill/competence,utiliser des systèmes informatisés de gestion de la maintenance,
+http://data.europa.eu/esco/skill/a2b5dcf3-5b6a-453d-876c-cff540c0faf1,maintenance,True,knowledge,logiciel de conception assistée par ordinateur,logiciel de CAO
+http://data.europa.eu/esco/skill/a448126c-69a1-45a2-bd76-a8eafd86f9c5,logistique,False,skill/competence,prévoir des tendances en matière de dividendes,
+http://data.europa.eu/esco/skill/a4881e54-6055-4e61-855a-0a56ced7cfa3,commercial,True,knowledge,évaluation de la stratégie web,
+http://data.europa.eu/esco/skill/a4cfad38-109a-4a61-8d01-98fd8cf001ce,maintenance,True,knowledge,matériaux pour articles chaussants,
+http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0,developpeur,False,knowledge,ML (programmation informatique),
+http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b,developpeur,False,knowledge,IBM WebSphere,
+http://data.europa.eu/esco/skill/a507f45d-0894-4803-b1cd-9ca7f15c9299,commercial,False,knowledge,procédés d'imprimerie,
+http://data.europa.eu/esco/skill/a56054aa-4ffd-4c8b-8b63-437435d98187,comptable,False,skill/competence,gérer des fiducies,
+http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,commercial,False,knowledge,confidentialité de l’information,"confidentialité des données
+contrôle de l’accès aux données
+confidentialité des informations
+confidentialité des données de l’utilisateur
+protection du caractère confidentiel des données
+protection des renseignements personnels"
+http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696,"commercial, maintenance",True,skill/competence,consulter des données,
+http://data.europa.eu/esco/skill/a5735dd9-2e74-4fb1-b785-50b98498fc25,logistique,False,skill/competence,gérer des sous-traitants,
+http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08,developpeur,False,knowledge,LDAP,
+http://data.europa.eu/esco/skill/a59708e3-e654-4e37-8b8a-741c3b756eee,commercial,False,knowledge,systèmes multimédia,
+http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01,logistique,False,knowledge,principes du travail d'équipe,principes du travail en équipe
+http://data.europa.eu/esco/skill/a6532ae5-efc4-4ca4-b172-c11471940d09,commercial,False,knowledge,activités économiques en ligne,commerce électronique
+http://data.europa.eu/esco/skill/a6ae7a34-5a5c-48dd-9b82-8beccca63e3c,commercial,True,skill/competence,garantir le respect de la législation relative aux achats et à la passation de contrats,
+http://data.europa.eu/esco/skill/a6dcd5bd-d498-4469-96c9-cbc46e8efd04,maintenance,False,skill/competence,faire fonctionner des pompes hydrauliques,
+http://data.europa.eu/esco/skill/a703b581-ad64-4791-8bb3-624aea569fa5,logistique,False,skill/competence,assurer la gestion de contrats,
+http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516,developpeur,True,knowledge,logiciel d’édition graphique,"PixBuilder Photo Editor
+PhotoScape
+KolourPaint
+PhotoPerfect
+PicMonkey
+IrfanView
+Tux Paint
+Pixia
+Shotwell
+Photogenics
+ACD Canvas
+Apache OpenOffice Draw
+sK1
+XPaint
+TVPaint
+Corel Painter Essentials
+Photo Mechanic
+Serif Photoplus
+Color It!
+SAILightZone
+Swift 3D
+UFRaw
+GIMPshop
+GraphicConverter
+Project Dogwaffle
+Sodipodi
+FastStone Image Viewer
+GimPhoto
+Iridient Developer
+Fatpaint
+Corel Photo-Paint
+Unified Color HDR PhotoStudio
+F-Spot
+Ulead PhotoImpact
+XnView
+Inkscape
+Xara Xtreme LX
+QFX
+NeoPaint
+CinePaint
+Adobe Photoshop Elements
+Pictor Paint
+Balsamiq
+Pixelmator
+Fotografix
+Autodesk SketchBook Pro
+Picasa
+CodedColor
+Embroidermodder
+ArcSoft PhotoImpression
+RawTherapee
+Chasys Draw IES
+Macromedia FreeHand
+G'MIC
+Phatch
+LView Pro
+ImageMagick
+Zoner Photo Studio
+ArtRage
+cosmigo Pro Motion
+Darktable
+Ability Photopaint
+PMview
+Rawstudio
+Xara Photo & Graphic Designer
+Serif DrawPlus
+OmniGraffle
+LazPaint
+SVG-edit
+Erdas Imagine
+vector graphics editor
+Paint.NET
+DigiKam
+GrafX2
+LibreOffice Draw
+Pixlr.com
+GraphicsMagick"
+http://data.europa.eu/esco/skill/a7b9039e-0145-4e3e-bbf8-30151d3e6cc0,maintenance,True,skill/competence,programmer la maintenance régulière de machines,
+http://data.europa.eu/esco/skill/a7b9e3cd-cd39-4ea1-b617-3f5b651fd535,logistique,True,skill/competence,réaliser des exercices de plan d’urgence à grande échelle,
+http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e,"developpeur, maintenance",True,knowledge,stockage de données,"service d'hébergement de données
+stockage des donnnées"
+http://data.europa.eu/esco/skill/a812b11d-6e0a-4c5a-87ae-02bcc5ccfc9c,commercial,True,skill/competence,travailler de manière autonome dans la vente,
+http://data.europa.eu/esco/skill/a8460be3-f4ba-44a0-a961-0389069a3614,logistique,True,skill/competence,gérer les situations de stress sur le lieu de travail,"gérer les situations stressantes
+faire face aux situations stressantes
+garder son sang-froid dans des environnements de travail stressants
+gérer les situations très stressantes sur le lieu de travail
+gérer des situations très stressantes sur le lieu de travail
+garder la tête froide dans des circonstances stressantes
+maintenir le calme dans des conditions de travail stressantes
+gérer les situations pénibles
+faire face à des situations qui évoluent rapidement
+rester au même niveau dans des circonstances stressantes
+garder son sang-froid dans des conditions de travail stressantes
+faire face à des situations stressantes
+endurer des situations stressantes
+maintenir le calme dans des environnements de travail stressants
+supporter des situations stressantes
+gérer des situations stressantes dans le travail"
+http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996,developpeur,False,knowledge,PostgreSQL,
+http://data.europa.eu/esco/skill/a8f2a095-9d03-43f0-980d-2b9fcc59a994,commercial,False,skill/competence,créer une culture d’entreprise,
+http://data.europa.eu/esco/skill/a9640376-8d72-4a70-a4a3-7a18e2e8f3c0,comptable,False,skill/competence,donner des conseils sur les finances publiques,
+http://data.europa.eu/esco/skill/a9c205ef-365a-4ae4-b905-cb48ba761ff0,commercial,False,skill/competence,présenter un plan d’entreprise aux collaborateurs,présenter un business plan aux collaborateurs
+http://data.europa.eu/esco/skill/a9dc215e-4e26-4ac0-b1e8-a721a88af813,commercial,True,skill/competence,réaliser des tests de conversion,
+http://data.europa.eu/esco/skill/aa238394-8126-4ada-be2f-9dfe065cf314,"logistique, maintenance",True,skill/competence,respecter des lignes directrices d’organisation d’une entreprise,
+http://data.europa.eu/esco/skill/aa31bb76-8109-43c4-abc0-21529336a880,logistique,True,skill/competence,gérer la chaîne logistique,
+http://data.europa.eu/esco/skill/aadf267e-08f0-4bf3-ae4a-f1670b8e9e5d,maintenance,False,knowledge,technologies d’énergie renouvelable en mer,
+http://data.europa.eu/esco/skill/aafb8d62-1592-4488-bd40-7bdfb751ff98,logistique,False,skill/competence,gérer le retour de biens loués,
+http://data.europa.eu/esco/skill/ab167ae1-dfd8-4607-8dc4-d6d500622e1d,logistique,False,skill/competence,prévoir les niveaux d’activité,"anticiper les niveaux d’activité
+faire des projections sur les niveaux d’activité
+réaliser des projections sur les niveaux d’activité"
+http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f,developpeur,True,knowledge,systèmes de gestion de base de données,"moteurs de base de données
+MySQL
+Oracle
+logiciels de gestion de base de données
+Microsoft SQL Server
+SGBD
+systèmes de base de données"
+http://data.europa.eu/esco/skill/ab5c3fac-238f-4006-a122-1114082a2f46,commercial,False,skill/competence,surveiller la gestion d’une marque,
+http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b,"comptable, logistique",True,skill/competence,gérer des stocks,
+http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f,"commercial, rh",True,knowledge,techniques publicitaires,
+http://data.europa.eu/esco/skill/abdc7ac8-151f-40c6-bc1a-1e9b4b073290,developpeur,False,knowledge,réalité augmentée,
+http://data.europa.eu/esco/skill/acb43107-4354-40a5-8a82-9b9264fafacf,maintenance,True,knowledge,machines pour articles chaussants,"exploitation et maintenance de machines pour la fabrication de chaussures
+fonctionnement et maintenance des machines à chaussures
+exploitation et maintenance des machines pour la fabrication de chaussures
+l'exploitation et l'entretien de machines pour chaussures
+fonctionnement et entretien des machines à chaussures
+fonctionnement et entretien des machines pour chaussures"
+http://data.europa.eu/esco/skill/ad28c970-6bc7-4fff-9c01-0f4d67769de3,commercial,True,skill/competence,élaborer des stratégies de génération de revenus,
+http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a,maintenance,False,knowledge,logiciel de système d'analyse statistique,
+http://data.europa.eu/esco/skill/adc82bc2-8b95-4826-a6b5-e7189989bdb9,maintenance,False,skill/competence,donner des conseils en maintenance des machines,
+http://data.europa.eu/esco/skill/ae4ea3e1-3c1a-45b0-96a7-106988c053c0,maintenance,False,skill/competence,fournir des renseignements concernant des réparations à des clients,
+http://data.europa.eu/esco/skill/ae57a9c3-f761-4b03-be2b-99a781704c73,logistique,False,skill/competence,utiliser des logiciels de prévision des ventes,
+http://data.europa.eu/esco/skill/af2e97dc-fa66-421e-a793-ba4e4afa2dad,logistique,True,knowledge,types d'emballages utilisés dans les expéditions industrielles,"procédés d'emballage pour les expéditions industrielles
+types d'emballage utilisés pour l'expédition industrielle
+procédures d'emballage pour les expéditions industrielles
+matériaux utilisés pour emballer les produits industriels
+typologies d'emballages utilisés dans les expéditions industrielles
+types d'emballage utilisés dans l'expédition industrielle
+matériaux utilisés pour l'emballage des produits industriels
+emballage utilisé dans les expéditions industrielles"
+http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f,developpeur,False,knowledge,SPARK,
+http://data.europa.eu/esco/skill/afbc401c-cad8-43b6-8d61-775d2c7b58d5,maintenance,False,skill/competence,préparer des documents de conformité,
+http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254,logistique,False,knowledge,gestion des conflits,"traitement des conflits
+gestion des différends"
+http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,rh,False,knowledge,analyse de marché,analyse du marché
+http://data.europa.eu/esco/skill/b01444aa-6f62-4b7d-ab30-4385a9148580,rh,False,knowledge,techniques de réflexion personnelle fondées sur le retour d’information,
+http://data.europa.eu/esco/skill/b0560439-14eb-41d1-aa53-1938efc24123,commercial,True,knowledge,stratégie de marketing de contenu,
+http://data.europa.eu/esco/skill/b0565bd9-29c8-42f6-b174-702970fc2f4f,commercial,True,skill/competence,produire des rapports de vente,
+http://data.europa.eu/esco/skill/b08ec8ff-1a3e-4cc3-8016-9520b21666a6,comptable,False,skill/competence,contrôler des dépenses,
+http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,logistique,False,knowledge,traitement analytique en ligne,"TAL
+traitement de transactions en ligne
+traitement OLAP
+OLTP
+système de traitement analytique en ligne"
+http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92,developpeur,False,knowledge,Synfig,
+http://data.europa.eu/esco/skill/b0b453d0-c5d2-4799-ab26-8d90b17d0e67,comptable,True,skill/competence,développer une stratégie de compte client,
+http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90,developpeur,True,knowledge,programmation de systèmes de TIC,"programmation d’applications
+programmation de systèmes de TI
+écriture de scripts
+programmation de systèmes des TIC
+écriture des programmes informatiques"
+http://data.europa.eu/esco/skill/b1272de4-1f5f-408b-8b26-061f2550fc72,"commercial, logistique",True,knowledge,systèmes de commerce électronique,
+http://data.europa.eu/esco/skill/b1578674-6e79-4142-9673-63a29f847aa8,maintenance,False,knowledge,procédés et techniques d’assemblage pour la confection d’articles chaussants type Goodyear,
+http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70,developpeur,False,knowledge,WildFly,
+http://data.europa.eu/esco/skill/b17f4305-741a-4a1c-8fe8-6f11cb3d5c0a,"commercial, rh",True,knowledge,communication des entreprises,processus de communication d'entreprise
+http://data.europa.eu/esco/skill/b1ef509e-f191-405a-8419-51663b08922e,logistique,True,skill/competence,mettre en œuvre un système de gestion,"utiliser un système de gestion
+employer un système de gestion"
+http://data.europa.eu/esco/skill/b1fd9eda-3d2e-48ef-9c1d-0ba318e3c7e6,maintenance,True,skill/competence,superviser des travaux,
+http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8,"comptable, logistique",False,skill/competence,superviser la coopération entre les services,"assurer la communication et la coopération entre les services
+veiller à la communication et à la coopération entre les services
+superviser la coopération entre les départements"
+http://data.europa.eu/esco/skill/b22e46d7-1c5f-4837-943f-7f75531acc26,rh,False,skill/competence,déterminer les ressources humaines nécessaires,
+http://data.europa.eu/esco/skill/b497a163-daf4-4f1b-a6ba-8c640d803979,comptable,False,knowledge,systèmes de dette,
+http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282,developpeur,False,knowledge,AJAX,Asynchronous Javascript and XML
+http://data.europa.eu/esco/skill/b5cb259e-83e7-48f5-950e-245d5b5fd6d0,comptable,True,skill/competence,rédiger des procédures comptables,
+http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f,developpeur,False,knowledge,C++,
+http://data.europa.eu/esco/skill/b769f524-0f25-44d7-8538-5c46710a040e,developpeur,False,skill/competence,gérer des documents numériques,
+http://data.europa.eu/esco/skill/b7c8f418-08d5-45d6-b697-ab26c6ecbfb4,"commercial, logistique",True,skill/competence,conseiller les clients,"démontrer une orientation client
+démontrer l'orientation client
+profiter des relations avec les clients
+assurer l'orientation clients
+permettre l'orientation client
+faire preuve d’une attitude orientée au service pour les clients
+fournir des services à la clientèle
+aimer traiter avec les clients
+assurer l'orientation des clients
+fournir des services de soutien à la clientèle
+assurer l'orientation client
+faire preuve d'une attitude axée sur le service"
+http://data.europa.eu/esco/skill/b7e57889-a84f-440c-9e60-459aa69979e9,logistique,True,skill/competence,analyser les tendances de la chaîne d’approvisionnement,
+http://data.europa.eu/esco/skill/b7e57889-a84f-440c-9e60-459aa69979e9,logistique,True,skill/competence,analyser les tendances de la chaîne d’approvisionnement,
+http://data.europa.eu/esco/skill/b8316819-feca-403d-902f-a86562fd91e9,logistique,True,skill/competence,analyser des réseaux d’entreprises de transport,
+http://data.europa.eu/esco/skill/b8656b5c-e3f0-4418-82ff-87b5f677f9e8,comptable,False,skill/competence,diffuser des informations sur la législation fiscale,
+http://data.europa.eu/esco/skill/b895bd42-0009-4815-a150-eb9eb5caec21,comptable,False,knowledge,bourse,"marché des actions
+place boursière
+marché financier
+marché des valeurs
+marché boursier"
+http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde,developpeur,False,knowledge,FileMaker (systèmes de gestion de base de données),
+http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8,commercial,True,skill/competence,mettre en œuvre des stratégies de vente,
+http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92,"commercial, developpeur",False,skill/competence,aborder des problèmes avec un esprit critique,
+http://data.europa.eu/esco/skill/b9f67432-0057-4247-aa84-469f8c53b39d,logistique,False,knowledge,déchets et rebuts,
+http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42,developpeur,False,knowledge,logiciel de négociation,"solution logicielle de trading
+demande de trading
+application de trading"
+http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb,commercial,True,skill/competence,élaborer des stratégies d’entreprise,
+http://data.europa.eu/esco/skill/bac209e9-d337-4312-9041-17c2e75fa4df,commercial,False,knowledge,industrie de la quincaillerie,
+http://data.europa.eu/esco/skill/bacea2c7-5b2f-499f-99ee-665ffad6d64e,logistique,False,skill/competence,gérer la logistique d’un site,
+http://data.europa.eu/esco/skill/bb127774-3166-4541-ad4c-cc3070fd93c5,logistique,False,skill/competence,gérer les retours,
+http://data.europa.eu/esco/skill/bb2b4485-2bad-402f-8517-44bf7d9afff4,developpeur,False,skill/competence,installer un logiciel antivirus,"installer un programme anti-virus
+installer un anti-virus"
+http://data.europa.eu/esco/skill/bb663409-5c88-4e3a-bc16-01aa1c8ce171,"commercial, maintenance",False,skill/competence,établir des procédures de santé et de sécurité,"établir des normes d'hygiène et de sécurité
+fixer des normes en matière de santé et d'hygiène
+établir des normes en matière d'environnement et de sécurité
+établir des normes en matière d'environnement et de santé
+fixer les normes de santé et de sécurité
+établir des normes environnementales et de sécurité
+fixer des normes de santé et d'hygiène
+planification des procédures de santé et de sécurité
+planifier les procédures de santé et de sécurité
+fixer des normes de santé et de sécurité"
+http://data.europa.eu/esco/skill/bb75528c-a953-459e-bd48-f90a8a7a0cf3,maintenance,False,skill/competence,faire fonctionner les commandes d’installations hydrauliques,
+http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426,developpeur,False,knowledge,SAP R3,
+http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,maintenance,False,knowledge,technologies de dématérialisation,"informatique de pointe
+Edge Computing (informatique de périphérie)
+technologies en nuage
+technologie de dématérialisation
+informatique en nuage
+informatique dématérialisée
+dématérialisation
+technologie cloud"
+http://data.europa.eu/esco/skill/bd556223-d9af-434b-a6bf-e70fa3ed3d12,logistique,False,skill/competence,estimer avec précision le temps de travail,
+http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95,logistique,False,knowledge,principes de stratégie d’entreprise,
+http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,commercial,False,skill/competence,traiter des paiements,"traiter les modes de paiement
+enregistrer les paiements"
+http://data.europa.eu/esco/skill/be252635-341e-4b1c-b94f-aef362b645ed,commercial,False,knowledge,prêts aux entreprises,prêts commerciaux
+http://data.europa.eu/esco/skill/be48353d-25c7-4f86-bea9-7b9e248fbc6e,developpeur,True,skill/competence,interpréter des exigences techniques,
+http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71,logistique,True,skill/competence,effectuer des prévisions statistiques,
+http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a,developpeur,False,knowledge,Swift (programmation informatique),
+http://data.europa.eu/esco/skill/bf12b461-1c53-4d81-a395-8ba77f7483c4,comptable,False,knowledge,analyse de l’investissement,
+http://data.europa.eu/esco/skill/bf1f763e-c505-46e7-8af3-e48f13ec5f44,maintenance,False,knowledge,technique de régulation,génie des contrôles automatiques
+http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f,maintenance,False,knowledge,pneumatique,
+http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a,"commercial, logistique, rh",True,skill/competence,créer un réseau professionnel,
+http://data.europa.eu/esco/skill/bf987b9a-64f3-44b7-98f1-a60e4585b69b,logistique,False,skill/competence,préparer des rapports sur des achats,
+http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead,developpeur,False,knowledge,SQL Server,
+http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,commercial,False,skill/competence,atteindre des objectifs de vente,
+http://data.europa.eu/esco/skill/c0b74374-39ff-43cf-a0a9-6220c7ec5097,logistique,True,skill/competence,mettre en œuvre des plans d’efficacité des opérations logistiques,
+http://data.europa.eu/esco/skill/c1388df1-47bd-4fd5-8b71-dce7886ef21b,logistique,False,knowledge,procédures des services de vente,
+http://data.europa.eu/esco/skill/c15e9da0-6177-4afd-93f4-65655374ad8a,commercial,False,skill/competence,fournir des échantillons publicitaires,
+http://data.europa.eu/esco/skill/c1b0bfc2-4932-4e03-9077-92bc56042511,maintenance,False,skill/competence,gérer des plans d’évacuation d’urgence,"gérer les plans d’évacuation en urgence
+maintenir les plans d’évacuation d’urgence"
+http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794,developpeur,True,knowledge,langages des feuilles de style,"CSS
+langages de feuilles de style en cascade
+feuilles de style en cascade
+langages feuilles de style
+langage des feuilles de style"
+http://data.europa.eu/esco/skill/c2d48b3a-1f91-4442-8f18-6c43a589737b,commercial,False,skill/competence,élaborer une stratégie médiatique,
+http://data.europa.eu/esco/skill/c2f06797-190e-4a74-b8c2-a988c3cc8186,maintenance,False,knowledge,techniques de couture d'articles chaussants,
+http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13,"commercial, maintenance",True,skill/competence,appliquer des compétences de communication technique,
+http://data.europa.eu/esco/skill/c33dd5ae-ae72-49d7-8dcf-8bc72e59fe78,comptable,False,knowledge,droit civil,
+http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d,developpeur,False,knowledge,MATLAB,
+http://data.europa.eu/esco/skill/c4118654-695f-44bc-b9d3-1b26f3a955f8,logistique,False,knowledge,règles internationales d'import-export,"réglementation internationale en matière d'importations et d'exportations
+réglementations internationales en matière d'importations et d'exportations
+statuts internationaux d'importation et d'exportation
+réglementations internationales d'importation et d'exportation
+la législation internationale en matière d'importations et d'exportations
+réglementation internationale des importations et des exportations
+règles internationales d'importation et d'exportation
+réglementation internationale en matière d'importation et d'exportation
+lois internationales sur l'import-export
+législation internationale en matière d'importations et d'exportations
+réglementations internationales en matière d'import-export
+législation internationale sur les importations et les exportations"
+http://data.europa.eu/esco/skill/c4867766-50f8-489e-98d7-262da5589c0a,commercial,False,knowledge,produits solaires,"appareils solaires
+produits photovoltaïques
+produits à énergie solaire
+dispositifs solaires"
+http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb,developpeur,True,skill/competence,mettre en œuvre le design front end d’un site web,
+http://data.europa.eu/esco/skill/c50dc8c9-24b2-47c8-9e1a-894521f5b248,logistique,False,knowledge,montres et bijoux,
+http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,developpeur,True,skill/competence,communiquer les résultats d’analyse,"rapporter les résultats d’analyse
+exposer les résultats d’analyse
+communiquer les résultats de l’analyse
+communiquer le résultat d’analyse
+faire un rapport des résultats d’analyse
+produire les résultats d’analyse"
+http://data.europa.eu/esco/skill/c5b90c0c-3af0-4c8c-a06c-cc3ced02242c,"comptable, logistique",True,skill/competence,assurer des activités de comptabilité analytique,
+http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84,maintenance,True,skill/competence,gérer les opérations de maintenance,"gérer les opérations d'entretien
+superviser les opérations de maintenance
+gérer les activités d'entretien
+gérer les activités de maintenance"
+http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,maintenance,False,knowledge,données non structurées,"données structurées
+ensemble de données non structurées
+analyses de données
+données semi-structurées
+exploration de données
+informations non structurées"
+http://data.europa.eu/esco/skill/c5ed451b-ef39-47a3-aee7-8f5be0aa8431,developpeur,False,knowledge,CA Datacom/DB,
+http://data.europa.eu/esco/skill/c5fdbd81-db10-4fc3-8cee-8b1a7169c472,maintenance,True,skill/competence,entretenir des machines d’assemblage d’articles chaussants,
+http://data.europa.eu/esco/skill/c683335e-b862-44a5-9d37-fc85b39cf022,commercial,False,skill/competence,établir la communication avec des cultures étrangères,
+http://data.europa.eu/esco/skill/c6846331-2e11-45d6-ab8d-306c956332fc,maintenance,True,knowledge,technologie de confection d’articles chaussants,
+http://data.europa.eu/esco/skill/c6e308b4-8799-4461-a9bd-560bdecb0dbb,rh,False,knowledge,procédures des services de ressources humaines,procédures des services du personnel
+http://data.europa.eu/esco/skill/c73ea1b8-e121-4f91-b8f0-dee4ee28d6ec,logistique,False,skill/competence,préparer des plannings,
+http://data.europa.eu/esco/skill/c7451027-8249-405a-bb1b-342ff0f3fb3b,developpeur,False,knowledge,Salt (outils de gestion de configuration logicielle),
+http://data.europa.eu/esco/skill/c751974d-5d8a-4b16-806a-940bbdaf6a57,logistique,False,skill/competence,demander un financement public,
+http://data.europa.eu/esco/skill/c77ac399-de03-4136-9531-023c453006be,logistique,True,knowledge,règlementation relative au transport de marchandises dangereuses,"règlements sur les cargaisons dangereuses
+dispositions légales applicables aux marchandises dangereuses
+codes juridiques régissant le transport des matières dangereuses
+réglementation relative au transport de marchandises dangereuses
+règlement sur les cargaisons dangereuses
+réglementation sur les marchandises dangereuses
+cadres réglementaires régissant le transport des matières dangereuses
+dispositions légales applicables au fret dangereux"
+http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e,developpeur,False,knowledge,LINQ,
+http://data.europa.eu/esco/skill/c81c9ea3-4689-4146-9076-24dd175c69bc,commercial,True,skill/competence,faire de la vente active,
+http://data.europa.eu/esco/skill/c842be42-81b3-40f2-904c-ea8790ac88bd,logistique,False,skill/competence,négocier des contrats de fourniture,"négocier les modalités des contrats de fourniture
+négocier des contrats d'approvisionnement
+négocier des contrats avec les fournisseurs"
+http://data.europa.eu/esco/skill/c8ac1986-38fa-43b2-89dc-50a4beeb420e,maintenance,False,knowledge,électricité,"notions de base en électricité
+basiques de l'électricité
+électricité de base
+électrique de base
+électrique
+électriques"
+http://data.europa.eu/esco/skill/c8d75bf4-ad0d-4f36-8cdc-265a7b044881,maintenance,False,skill/competence,appliquer des techniques de couture,
+http://data.europa.eu/esco/skill/c8e25c26-ba35-4cb8-961b-6a3e02b804b7,logistique,False,skill/competence,recevoir des informations sur l’emballage des expéditions,
+http://data.europa.eu/esco/skill/c9026b8f-7c5c-44b4-9e59-ae1e72fb29c0,logistique,False,knowledge,ouvrages en bois,"produits en bois
+produits ligneux"
+http://data.europa.eu/esco/skill/c927ec6e-9082-4b22-afd3-0c4e219eaf73,maintenance,False,skill/competence,assurer la maintenance d’installations,
+http://data.europa.eu/esco/skill/c93527bc-6668-4c34-b1a1-47bcaf97c5ed,"commercial, logistique",False,knowledge,parfums et produits cosmétiques,
+http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3,"logistique, maintenance",True,skill/competence,utiliser un logiciel d’analyse de données spécifique,
+http://data.europa.eu/esco/skill/c9956564-e281-4c1b-9d62-b412400fb0cb,logistique,True,skill/competence,répondre aux demandes de services logistiques à travers le monde,
+http://data.europa.eu/esco/skill/ca226595-beda-406b-a0ac-c65c40784ca4,logistique,False,skill/competence,surveiller la documentation financière liée au fret,
+http://data.europa.eu/esco/skill/caadb26a-f5a4-4bd1-a630-d508fb616ae2,logistique,True,skill/competence,gérer les systèmes de tarification de la logistique,
+http://data.europa.eu/esco/skill/cab119c5-ff95-4499-b91a-54e9f6c5cde1,maintenance,True,skill/competence,travailler au sein d’équipes de production textile,
+http://data.europa.eu/esco/skill/cace7a77-38b7-4cdf-8171-e17692bef5f6,commercial,True,skill/competence,répondre aux demandes des clients,"communiquer avec la clientèle
+satisfaire les demandes des clients
+répondre aux besoins des clients
+répondre aux demandes de la clientèle"
+http://data.europa.eu/esco/skill/cb059032-dd34-4761-a786-98cfb9d0efe3,comptable,True,skill/competence,expliquer des comptabilisations,
+http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6,developpeur,False,skill/competence,appliquer la théorie des systèmes d’information et de communication,
+http://data.europa.eu/esco/skill/cc0b95b8-5fae-4ee2-851e-9b1e9fa178be,rh,False,skill/competence,gérer les plaintes d’employés,
+http://data.europa.eu/esco/skill/cc3b901c-4d66-48f8-90b9-41883be1e1ed,commercial,True,skill/competence,planifier des objectifs à moyen et à long terme,"planifier des buts fixés à moyen et à long terme
+prévoir des objectifs à moyen et à long terme
+fixer des objectifs à moyen et à long terme
+planifier des objectifs fixés à moyen et à long terme"
+http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,developpeur,True,knowledge,évaluation de la qualité de données,
+http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,developpeur,False,knowledge,Python (programmation informatique),"Python3000
+Py3K
+Python2
+Python prog
+Python3
+Pyston
+Python 3k"
+http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68,"commercial, logistique",True,skill/competence,assurer la gestion de projets,
+http://data.europa.eu/esco/skill/cd85312f-0e0b-460b-addd-57d6df800595,maintenance,True,skill/competence,coordonner la communication au sein d’une équipe,
+http://data.europa.eu/esco/skill/cdb66bd3-e356-45a4-888b-6d1f69cd30a7,maintenance,True,skill/competence,planifier des travaux de maintenance dans un bâtiment,
+http://data.europa.eu/esco/skill/cdd2b6cc-b4a9-42a0-824b-766f52176fd3,maintenance,False,skill/competence,rédiger des rapports d’inspection,
+http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49,developpeur,False,knowledge,théorie des systèmes,
+http://data.europa.eu/esco/skill/ce4990a4-bf69-4f5f-becb-e4fd96da3a74,"commercial, logistique",False,knowledge,"engins d'exploitation minière, de construction et de génie civil",
+http://data.europa.eu/esco/skill/ce4cbc3a-bde0-43b4-9526-e643c4fe5b04,commercial,True,skill/competence,collaborer aux activités quotidiennes de l’entreprise,
+http://data.europa.eu/esco/skill/ce5598ec-5ca4-4f3e-92a2-c55c90ce6038,commercial,False,knowledge,droit de la concurrence,
+http://data.europa.eu/esco/skill/ce592b28-4467-4908-b2e6-64bbe18da631,commercial,True,skill/competence,effectuer un travail de rédaction,
+http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4,developpeur,False,skill/competence,automatiser les tâches en nuage,
+http://data.europa.eu/esco/skill/cf200547-25b5-47c8-9eda-bca4aedc13fb,maintenance,False,skill/competence,programmer un micrologiciel,"programmer un microprogramme
+programmer un firmware"
+http://data.europa.eu/esco/skill/cf22d572-a77f-410d-83e4-3a627cc8df77,commercial,True,skill/competence,surveiller des activités de vente,
+http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2,logistique,True,knowledge,logiciels de bureautique,
+http://data.europa.eu/esco/skill/cf3e976d-2c3e-495c-a874-f9e8a66d3b48,developpeur,True,skill/competence,effectuer des sauvegardes,"effectuer une sauvegarde
+exécuter des sauvegardes
+effectuer des sauvegardes de données
+réaliser des sauvegardes
+sauvegarder des données
+sauvegarder"
+http://data.europa.eu/esco/skill/cf579543-272b-43c8-b942-555836ae4241,logistique,True,knowledge,principes de la chaîne d'approvisionnement,
+http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3,maintenance,True,skill/competence,utiliser de la documentation technique,
+http://data.europa.eu/esco/skill/d0586c39-a2d9-4492-a970-c566a64ffd86,logistique,True,skill/competence,assurer la conformité des activités de distribution,
+http://data.europa.eu/esco/skill/d0c425c6-e3de-465e-923d-d4d30ec4be9b,comptable,True,knowledge,principes comptables nationaux généralement admis,principes comptables généralement reconnus au niveau national
+http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523,developpeur,False,knowledge,infrastructure des TIC,
+http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb,"comptable, logistique",True,skill/competence,présenter des rapports,"exposer des rapports
+fournir des rapports
+transmettre des rapports"
+http://data.europa.eu/esco/skill/d0f48427-7987-4f86-b24d-709837a37fd2,rh,False,skill/competence,participer à l’élaboration de programmes de santé pour le personnel,
+http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60,"commercial, logistique",True,skill/competence,avoir des connaissances en informatique,
+http://data.europa.eu/esco/skill/d1724ca5-ebd3-472a-bea9-fad9fe9004bf,logistique,True,skill/competence,estimer les coûts des fournitures,
+http://data.europa.eu/esco/skill/d18e37a5-2cdf-4845-bb65-7c8e82e09dc5,maintenance,True,skill/competence,inspecter des machines,
+http://data.europa.eu/esco/skill/d1a2437d-7eee-4c13-9104-0bb3dd7b45d6,maintenance,False,skill/competence,vérifier les ressources matérielles,
+http://data.europa.eu/esco/skill/d207a30b-2f80-4138-9b77-f88d549b8768,commercial,False,skill/competence,identifier de nouvelles opportunités commerciales,
+http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a,developpeur,True,knowledge,Joomla,
+http://data.europa.eu/esco/skill/d2c81ad1-2439-43cf-9c63-204187b8f771,logistique,True,skill/competence,limiter le gaspillage de ressources,
+http://data.europa.eu/esco/skill/d2de37c7-7233-481b-8b1a-f4dfde11ca91,commercial,True,skill/competence,donner des conseils sur des marchandises,
+http://data.europa.eu/esco/skill/d2fd219f-5cb1-4f67-8db5-be6c5fc865c7,maintenance,False,skill/competence,faire fonctionner des systèmes d’extraction d’hydrogène,
+http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15,developpeur,False,skill/competence,utiliser la programmation fonctionnelle,
+http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963,developpeur,False,skill/competence,gérer les données et le stockage dans l’informatique en nuage,
+http://data.europa.eu/esco/skill/d39022ab-d102-4720-b689-540d6f056b17,comptable,False,knowledge,administration publique,"administration gouvernementale
+administration de la fonction publique
+gestion du secteur public
+gouvernance publique
+administration de service public
+administration des organismes publics"
+http://data.europa.eu/esco/skill/d3e585e9-3a73-4511-b533-90f095e5aa09,commercial,True,knowledge,marketing mix,mix marketing
+http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31,logistique,True,skill/competence,prendre en considération les critères économiques dans la prise de décisions,
+http://data.europa.eu/esco/skill/d5111703-c344-484d-bef1-9565a278166a,"commercial, logistique",False,knowledge,prix du marché,
+http://data.europa.eu/esco/skill/d52382fe-f236-421f-95fe-34fe69d48dbd,maintenance,False,skill/competence,collaborer avec les concepteurs,
+http://data.europa.eu/esco/skill/d52487b0-cb03-4f41-a269-40c718018c2c,"commercial, comptable",False,skill/competence,surveiller des registres de service après-vente,
+http://data.europa.eu/esco/skill/d5493cca-ee21-4e43-8bcd-ec38680746cc,commercial,False,skill/competence,exécuter un plan de marketing,
+http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18,developpeur,False,knowledge,Scratch (programmation informatique),
+http://data.europa.eu/esco/skill/d63c2bad-817d-4116-b4d8-b927cb01212d,comptable,True,knowledge,droit commercial,
+http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0,logistique,False,skill/competence,aider à la préparation du calendrier de production,
+http://data.europa.eu/esco/skill/d648838c-2ccb-45bd-a4c3-1cf19f0b8733,logistique,False,knowledge,"produits à base de café, de thé, de cacao et d'épices",
+http://data.europa.eu/esco/skill/d66964f4-6f5b-443e-bf74-e61a56f5957f,logistique,True,skill/competence,respecter des listes de contrôle,
+http://data.europa.eu/esco/skill/d669af41-756c-48d9-a286-1443253f54b1,comptable,True,knowledge,législation fiscale,"droit fiscal
+règlementation fiscale"
+http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd,commercial,True,knowledge,compréhension des produits,
+http://data.europa.eu/esco/skill/d6d99ded-08d9-4e2b-b6bf-bc9fc4d266b6,logistique,False,skill/competence,assurer la liaison avec les utilisateurs d’un port,
+http://data.europa.eu/esco/skill/d6e78d9a-deca-4bcb-b08d-011b2616758d,comptable,True,skill/competence,assurer la conformité aux conventions comptables,
+http://data.europa.eu/esco/skill/d77d7685-04fb-43a4-a1ac-09a10811f646,"commercial, comptable",True,knowledge,droit des sociétés,
+http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5,logistique,False,skill/competence,évaluer des facteurs de risque,
+http://data.europa.eu/esco/skill/d7e4a9fa-cfc2-45f9-96eb-13dc6e48c86c,rh,True,knowledge,outil de vidéoconférence,"logiciel de visioconférence
+logiciel de vidéoconférence"
+http://data.europa.eu/esco/skill/d88cb3f1-8e02-4618-bf32-4b0488066934,maintenance,False,knowledge,mécatronique,
+http://data.europa.eu/esco/skill/d89f5cee-649a-44bd-9aa9-8e74bbdbd50d,maintenance,True,skill/competence,superviser les travaux réalisés par les contractants,"veiller à l’exécution et à la conformité des travaux des contractants
+superviser les travaux sous-traités
+veiller à l’exécution et à la conformité des travaux sous-traités"
+http://data.europa.eu/esco/skill/d96bfb0f-e771-4fec-abca-c38f48e02318,rh,False,skill/competence,négocier avec des agences pour l’emploi,
+http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2,developpeur,True,skill/competence,définir les exigences techniques,"rédiger les spécifications techniques
+rédiger une liste de spécifications techniques
+faire une liste d'aspects techniques
+consigner les spécifications techniques dans une liste
+faire une liste des aspects techniques
+recueillir les exigences techniques"
+http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6,developpeur,False,knowledge,Teradata Database,
+http://data.europa.eu/esco/skill/da629999-d226-4ff3-9e1a-01788132664f,comptable,False,skill/competence,assurer la conformité aux critères de divulgation des informations comptables,
+http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc,developpeur,False,skill/competence,déterminer les faiblesses d’un système TIC,
+http://data.europa.eu/esco/skill/db4a5d3a-47f5-4ff2-bc79-e458ee58c3fe,maintenance,False,skill/competence,assembler des unités mécatroniques,
+http://data.europa.eu/esco/skill/dc1ba31e-260e-4eb0-a5cb-6aa1e839e7c0,commercial,False,skill/competence,communiquer des changements de prix,
+http://data.europa.eu/esco/skill/dc417e19-edb4-4401-883a-2375f67a162f,comptable,False,skill/competence,gérer un grand livre,
+http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1,commercial,True,skill/competence,établir des relations d'affaires,
+http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb,commercial,True,knowledge,gestion de la relation client,"gestion des relations avec la clientèle
+gestion des relations avec les clients"
+http://data.europa.eu/esco/skill/dccbdbb8-7266-4fb4-a4cf-29056f102f12,logistique,True,skill/competence,établir un budget en fonction de besoins financiers,
+http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88,developpeur,False,knowledge,VBScript,
+http://data.europa.eu/esco/skill/dd7c9dfd-6e2c-46fd-aefc-369402d0200c,"commercial, comptable",True,skill/competence,créer un rapport financier,
+http://data.europa.eu/esco/skill/ddc8da70-b94f-43ef-88dc-aebc7bef4f7d,commercial,True,skill/competence,assumer la responsabilité de gestion d’une entreprise,
+http://data.europa.eu/esco/skill/ddce2912-bc0f-4a47-aa2b-c1de48bc4b44,maintenance,False,knowledge,économies d’énergie,"optimisation de l'énergie
+optimisation énergétique"
+http://data.europa.eu/esco/skill/de03f4fd-c147-4477-a048-7109e5ba2d6f,commercial,True,knowledge,principes de commercialisation,principes de marketing
+http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56,developpeur,False,knowledge,conception de l’interaction du logiciel,"conception d’un logiciel interactif
+élaboration de l’interaction du logiciel
+mise au point de l’interaction du logiciel
+création de l’interaction du logiciel
+création d’un logiciel interactif"
+http://data.europa.eu/esco/skill/de2f0ce8-f8d6-48c5-a213-4d065251cecf,rh,True,skill/competence,communiquer par téléphone,"fournir des renseignements au téléphone
+échanger par téléphone
+fournir des informations au téléphone"
+http://data.europa.eu/esco/skill/de7b8c6c-9ed4-4776-924c-4265dd1d9cde,commercial,True,skill/competence,démontrer les caractéristiques d'un produit,
+http://data.europa.eu/esco/skill/de857fbb-91a6-4a3f-8a47-93a9c1a616c8,logistique,True,skill/competence,planifier des opérations de transport,
+http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655,developpeur,False,knowledge,Oracle Relational Database,
+http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf,commercial,True,skill/competence,offrir des services de suivi de la clientèle,
+http://data.europa.eu/esco/skill/debef2fc-7af4-4bff-ac92-4d0317915a84,commercial,False,knowledge,communication électronique,
+http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1,developpeur,False,knowledge,COBOL,
+http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c,maintenance,False,skill/competence,utiliser des systèmes d’appui à la décision,
+http://data.europa.eu/esco/skill/dfff95c6-9758-4c04-a228-7eaa88dec6cd,developpeur,False,skill/competence,concevoir la complexité de l’organisation,
+http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc,developpeur,False,knowledge,architectures matérielles,
+http://data.europa.eu/esco/skill/e0daabb6-0950-440c-a25f-f5e1ccf15435,logistique,False,skill/competence,apporter une assistance en matière de logistique militaire,
+http://data.europa.eu/esco/skill/e186976a-64f0-4052-a25b-297d19e1d0ec,logistique,False,skill/competence,penser de manière proactive,
+http://data.europa.eu/esco/skill/e1f09038-b493-4771-ae29-a2d3e7ea013a,rh,True,skill/competence,documenter des entretiens,
+http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b,"developpeur, logistique",True,skill/competence,évaluer la durée de travail,"évaluer la durée de la prestation de travail
+jauger la durée de travail
+évaluer la durée du travail
+estimer la durée de travail
+prévoir la durée de travail
+anticiper la durée de travail"
+http://data.europa.eu/esco/skill/e2161b42-46f4-4b62-8136-c190edce56fc,comptable,False,skill/competence,garder une trace des dépenses,
+http://data.europa.eu/esco/skill/e2482d6f-90c8-4b93-997b-7d2556d2579d,comptable,False,skill/competence,examiner la continuité d'exploitation d’une entreprise,
+http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3,logistique,True,knowledge,gestion des données produit,"gestion des données de produits
+gestion des données produits"
+http://data.europa.eu/esco/skill/e2e15494-65b9-4af5-8b86-53fb51e7e022,comptable,True,skill/competence,gérer des comptes,
+http://data.europa.eu/esco/skill/e2fb1ee4-fbf9-4690-b677-3e6ff7cfdc48,developpeur,True,skill/competence,tester des requêtes TIC,
+http://data.europa.eu/esco/skill/e345cf05-bc6b-43a6-aca3-2f9c1ec0e772,comptable,False,skill/competence,tenir un registre d'actionnaires,
+http://data.europa.eu/esco/skill/e38215f6-be98-420c-8724-ba2e77881895,"commercial, logistique",False,knowledge,produits ménagers,
+http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a,"commercial, comptable, logistique",True,skill/competence,émettre des factures de vente,
+http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba,"commercial, logistique, rh",True,knowledge,gestion des ressources humaines,
+http://data.europa.eu/esco/skill/e49c4d19-dea6-42a1-bde2-30d69dc0ca24,rh,True,skill/competence,établir le profil d’une personne,
+http://data.europa.eu/esco/skill/e4c205f6-55ba-4bed-9c5d-2032058300c0,"commercial, comptable",False,knowledge,compétence financière,
+http://data.europa.eu/esco/skill/e54a3ed7-465f-432b-8940-2aeabeaa449e,maintenance,True,knowledge,qualité d'articles chaussants,
+http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e,"logistique, maintenance, rh",False,skill/competence,former le personnel,
+http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47,developpeur,False,knowledge,SAS Data Management,
+http://data.europa.eu/esco/skill/e5c108c3-d6b6-4018-a34f-763e7793e746,logistique,False,skill/competence,prévoir des volumes de production,
+http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777,developpeur,False,knowledge,CSS,
+http://data.europa.eu/esco/skill/e717b036-2c0c-4c11-99e9-0cb4ce084fed,comptable,True,skill/competence,effectuer des imputations comptables,
+http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9,commercial,True,knowledge,stratégies de vente,stratégies commerciales
+http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32,developpeur,True,knowledge,processus de création de contenu,
+http://data.europa.eu/esco/skill/e775f5c3-3dc7-4875-8061-6ab0f329db2d,logistique,False,skill/competence,gérer la logistique militaire,
+http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef,developpeur,False,knowledge,MarkLogic,
+http://data.europa.eu/esco/skill/e843973c-23dd-416a-8a9c-9e89512542fb,logistique,True,knowledge,logistique,
+http://data.europa.eu/esco/skill/e87ec79a-c9ff-46f5-84fa-7a0f394cdf40,maintenance,True,knowledge,robotique,
+http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b,developpeur,False,knowledge,Pascal (programmation informatique),
+http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96,developpeur,False,skill/competence,composer la description d'éléments web,"créer du contenu pour des éléments web
+écrire la description d’éléments web
+décrire des éléments web
+faire la description d’éléments web
+réaliser la description d’éléments web
+rédiger la description d’éléments web"
+http://data.europa.eu/esco/skill/e8f602f8-b98b-4071-b088-c65e016cdf98,commercial,False,knowledge,planification médiatique,media planning
+http://data.europa.eu/esco/skill/e9030465-13c5-46d2-bdae-c2c1a9dbec86,comptable,True,skill/competence,joindre des pièces justificatives à des opérations comptables,
+http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649,logistique,False,skill/competence,évaluer la viabilité financière,
+http://data.europa.eu/esco/skill/ea0d953d-654f-4082-b74f-93048a7f5d60,logistique,True,skill/competence,anticiper la révision d’un parc de véhicules,
+http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e,developpeur,False,skill/competence,exécuter un test d’intégration,"réaliser un test d’intégration
+exécuter des tests d’intégration
+effectuer un test d’intégration
+procéder à un test d’intégration
+exécuter des tests unitaires
+tester les interfaces entre les composants logiciels"
+http://data.europa.eu/esco/skill/ea9c2308-cdd0-409f-b512-384a4fd83677,maintenance,False,skill/competence,entrer en contact avec des forces de l’ordre,
+http://data.europa.eu/esco/skill/eaa9727c-df1e-407a-85d3-48cc71508bc2,comptable,True,skill/competence,préparer des balances de comptes,
+http://data.europa.eu/esco/skill/ead58f22-0af5-467c-ac1e-b750e4e1ac6a,commercial,True,skill/competence,élaborer des plans d’entreprise,élaborer des business plans
+http://data.europa.eu/esco/skill/eade4171-3d57-4fb2-9518-44d5a1da4ff5,rh,True,skill/competence,instaurer un climat de confiance,
+http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5,developpeur,False,knowledge,ABAP,
+http://data.europa.eu/esco/skill/eb65ce8e-61bf-49d1-99bb-cb699ba1005b,maintenance,False,knowledge,protection contre les rayonnements,
+http://data.europa.eu/esco/skill/eb8babfb-ab91-4937-a032-6a79f82e9b7f,"commercial, comptable",True,skill/competence,analyser le risque financier,
+http://data.europa.eu/esco/skill/ec7fd241-e68f-4593-a42a-a12a9bd80cbc,maintenance,True,knowledge,composants d’articles chaussants,
+http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,"commercial, comptable",True,knowledge,comptabilité,
+http://data.europa.eu/esco/skill/ece25f2f-e91a-4186-a221-caa715195fd7,commercial,False,skill/competence,faire preuve de diplomatie,
+http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203,comptable,True,skill/competence,élaborer un plan d’audit,
+http://data.europa.eu/esco/skill/ed21bd4a-ba91-42b4-a533-1d4bbcbf716a,maintenance,True,skill/competence,inspecter des installations,
+http://data.europa.eu/esco/skill/ed392b45-1087-44a7-89a9-d514224639ff,commercial,True,skill/competence,faire du marketing mobile,
+http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72,developpeur,False,skill/competence,intégrer les composants d’un système,
+http://data.europa.eu/esco/skill/ee3b1553-2dc5-434b-8dcf-4ae3a40b3a48,developpeur,False,skill/competence,vérifier les spécifications formelles des TIC,"inspecter les spécifications formelles des TIC
+contrôler les spécifications formelles des TIC
+examiner les spécifications formelles des TIC
+vérifier les spécifications formelles en matière de TIC
+tester les spécifications formelles des TIC
+vérifier les spécifications formelles en matière de TI"
+http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10,commercial,False,skill/competence,faire converger les efforts en faveur du développement d’une entreprise,
+http://data.europa.eu/esco/skill/efa141df-f382-418f-9121-bd88fd735669,maintenance,True,knowledge,mécanique,
+http://data.europa.eu/esco/skill/efb523d0-c998-440d-8639-cd14ba841c4c,comptable,False,knowledge,droit public,
+http://data.europa.eu/esco/skill/efc49485-b24b-46d5-825c-d9d80864c8da,logistique,True,skill/competence,gérer le parc en fonction des opérations prévues,
+http://data.europa.eu/esco/skill/efd50a11-ccd9-424c-a5af-c6b4bb5ef006,logistique,False,knowledge,produits d'animaux vivants,
+http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081,logistique,False,skill/competence,gérer le système normalisé de planification des ressources d'une entreprise,
+http://data.europa.eu/esco/skill/f041ce17-a005-4c69-846e-e3806e0b62f9,maintenance,True,skill/competence,gérer la communication entre des équipes,
+http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51,developpeur,False,knowledge,Internet des objets,"dispositifs intelligents
+l’Internet des objets
+environnement pervasif
+IdO
+web des objets
+informatique ubiquitaire"
+http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96,developpeur,True,skill/competence,concevoir une infographie,
+http://data.europa.eu/esco/skill/f08e2bd6-0366-4948-a670-1f03f130126f,commercial,True,skill/competence,créer de nouveaux concepts,
+http://data.europa.eu/esco/skill/f0b45409-42ca-42bc-a701-041e594d0657,rh,True,skill/competence,garantir l’égalité entre les femmes et les hommes sur le lieu de travail,
+http://data.europa.eu/esco/skill/f1155d3f-fbca-4298-a31c-f6955653bacf,commercial,False,skill/competence,organiser des équipes sur la base de compétences,
+http://data.europa.eu/esco/skill/f130eab9-64a5-47f8-a63e-e4788aa935ce,commercial,False,knowledge,plan de pénétration d’un marché,plan d’entrée sur un marché
+http://data.europa.eu/esco/skill/f14ff4b7-be1e-4b55-b39b-520005f8a97e,"commercial, logistique, maintenance",True,skill/competence,communiquer avec des cadres,
+http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81,maintenance,False,skill/competence,analyser des processus de production en vue de leur amélioration,
+http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d,rh,True,knowledge,stratégies de gestion des talents,gestion des talents
+http://data.europa.eu/esco/skill/f263da7f-0708-42c2-b1a9-39083416f632,logistique,False,skill/competence,communiquer des observations analytiques,
+http://data.europa.eu/esco/skill/f2704539-8b55-4164-8911-e550a1f9c47f,logistique,False,knowledge,fleurs et produits végétaux,
+http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998,developpeur,True,skill/competence,analyser les spécifications du logiciel,"évaluer les spécifications du logiciel
+analyser les spécifications du logiciel ou système
+examiner les spécifications du logiciel
+analyser les spécifications logicielles
+recueillir les spécifications du logiciel
+analyser les spécifications des logiciels"
+http://data.europa.eu/esco/skill/f2a34d6b-131a-4b8f-a110-898b9c91d18f,logistique,False,skill/competence,prévoir des tendances économiques,
+http://data.europa.eu/esco/skill/f2ce1560-2a29-41e9-b81b-bbe1554202d8,maintenance,False,skill/competence,appliquer des techniques de piquage,
+http://data.europa.eu/esco/skill/f2ee4067-d66b-4c18-bb56-27e32a0c88dc,logistique,False,skill/competence,améliorer la prestation des services ferroviaires,
+http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df,maintenance,True,knowledge,réglementation en matière de santé et de sécurité,réglementation en matière d’hygiène et de sécurité
+http://data.europa.eu/esco/skill/f37d9f67-2e79-4958-8307-1ce9d6dcc8bd,commercial,True,skill/competence,appliquer une stratégie d'engagement des clients,
+http://data.europa.eu/esco/skill/f3c5fae0-c0e3-4410-bc09-62bd82d4cecc,rh,True,skill/competence,soutenir la capacité d’insertion professionnelle des personnes handicapées,
+http://data.europa.eu/esco/skill/f41d4cd2-58ed-4ad6-b9c1-a5175c88d392,maintenance,False,skill/competence,gérer les services d’un établissement,
+http://data.europa.eu/esco/skill/f41f860f-91ab-4ca7-a906-483fa9d13c16,commercial,True,skill/competence,prospecter de nouveaux contrats régionaux,
+http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da,developpeur,False,knowledge,Jenkins (outils de gestion de configuration logicielle),
+http://data.europa.eu/esco/skill/f4a6e9f7-5cff-46c0-894c-59c20bb78694,maintenance,False,knowledge,technologie de l’automatisation,technologie de l’automation
+http://data.europa.eu/esco/skill/f4cd7802-123a-4bd5-9bfa-bf915a04e969,comptable,False,knowledge,offre publique,
+http://data.europa.eu/esco/skill/f4d3a8ff-2db1-4015-aa28-d4564afef3fd,commercial,True,skill/competence,tenir des registres de ventes,
+http://data.europa.eu/esco/skill/f5308e60-d763-4ead-be95-88c96fb3e02b,developpeur,False,skill/competence,s’adapter aux changements des plans de développement technologique,
+http://data.europa.eu/esco/skill/f5652e8e-7e25-4f3a-bd31-509c8406213f,comptable,True,skill/competence,superviser des opérations comptables,
+http://data.europa.eu/esco/skill/f5794c88-ab8e-4208-a9e6-95d6cf9b5a6f,logistique,False,skill/competence,coordonner les activités de transport à l'importation,
+http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794,developpeur,False,knowledge,N1QL,
+http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051,logistique,False,skill/competence,assurer la planification des ressources,
+http://data.europa.eu/esco/skill/f5f5b244-6cea-4fbc-8a50-8f712791bc09,"commercial, logistique",True,skill/competence,respecter les normes d’une entreprise,
+http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63,"commercial, comptable",True,skill/competence,prendre des décisions commerciales stratégiques,
+http://data.europa.eu/esco/skill/f632251a-4078-4546-b19f-7ef528d08325,maintenance,True,skill/competence,utiliser des outils informatiques,
+http://data.europa.eu/esco/skill/f672b7a0-698e-45f1-a102-51adeaf89200,logistique,True,skill/competence,élaborer des plans d'efficacité pour les opérations logistiques,
+http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5,"commercial, comptable, rh",True,knowledge,politiques d'entreprise,
+http://data.europa.eu/esco/skill/f77b73f0-8c65-4389-a3ae-3a57a73ad148,rh,False,skill/competence,développer des programmes de fidélisation des employés,
+http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e,logistique,True,skill/competence,mettre en œuvre une planification stratégique,
+http://data.europa.eu/esco/skill/f7e7ccb6-fadc-4c35-935d-e1040be40dfe,"commercial, comptable",False,skill/competence,gérer les transactions financières,"gérer les opérations financières
+superviser les transactions financières
+gérer les paiements"
+http://data.europa.eu/esco/skill/f8413360-6114-40de-a276-c59b764b9913,maintenance,False,knowledge,technologies des énergies renouvelables,"technologies pour les énergies renouvelables
+technologie énergétique des biocarburants.
+technologie de l’énergie produite à partir de biocarburants.
+technologie pour les énergies renouvelables
+technologie de l'énergie éolienne
+technologie de l'énergie solaire
+technologie des combustibles à base de biomasse
+technologies d'énergie renouvelable
+technologie de l'énergie hydraulique
+technologie des énergies renouvelables
+technologie des combustibles issus de la biomasse"
+http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c,developpeur,True,knowledge,services web,systèmes de services web
+http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375,developpeur,False,knowledge,consommation électrique des TIC,
+http://data.europa.eu/esco/skill/f8aa753b-25d3-403f-9634-17c603ab1de0,"commercial, logistique",False,knowledge,produits de verrerie,
+http://data.europa.eu/esco/skill/f8cfab53-c7f7-465d-9eca-d2a28e4dc708,maintenance,False,skill/competence,tenir des registres de réparations,
+http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4,"developpeur, logistique",False,knowledge,SAP Data Services,
+http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c,"commercial, logistique, maintenance",True,knowledge,gestion de la chaîne d’approvisionnement,
+http://data.europa.eu/esco/skill/f96f5aa5-6ed7-40dc-a431-68b0a09d6d4b,maintenance,False,skill/competence,concevoir des composants d’automatisation,
+http://data.europa.eu/esco/skill/fa7be6bf-f906-4b8e-857d-48a9a7da901c,logistique,False,skill/competence,gérer les opérations d'un entrepôt,
+http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9,developpeur,False,knowledge,conception des systèmes,conception de l'architecture du système
+http://data.europa.eu/esco/skill/faf8943c-72ff-4736-a587-25508695d6f0,comptable,True,skill/competence,tenir des registres financiers,
+http://data.europa.eu/esco/skill/fb39389b-07d5-439f-948b-6c6e58c0384f,logistique,True,skill/competence,gérer le transport de marchandises depuis les entrepôts,"transporter des produits à partir d'entrepôts
+transporter des produits depuis les entrepôts
+manutentionner les marchandises transportées à partir des entrepôts
+gérer les marchandises d'entrepôt
+gérer les marchandises transportées depuis les entrepôts
+traiter les marchandises transportées à partir d'entrepôts
+gérer les matériaux transportés depuis les entrepôts
+transporter des marchandises à partir d'entrepôts
+définir des réseaux de transport d'entrepôt pour les marchandises
+gérer les matériaux transportés à partir des entrepôts
+définir des réseaux de transport d'entrepôts pour les marchandises
+transporter des marchandises depuis des entrepôts
+gérer les marchandises de l'entrepôt"
+http://data.europa.eu/esco/skill/fb3bc9b5-2297-4bba-85b1-60f696a92db8,commercial,True,knowledge,caractéristiques des services,
+http://data.europa.eu/esco/skill/fb40d2c6-fe3c-4e49-9289-49e98900b315,maintenance,True,skill/competence,contrôler la conformité aux règles et à la législation en matière de maintenance,"contrôler le respect des règles et législations en matière de maintenance
+vérifier la conformité avec les règles et législations en matière de maintenance
+veiller au respect des règles et législations en matière de maintenance"
+http://data.europa.eu/esco/skill/fb9c12af-ec45-498a-8e52-891371191557,rh,False,skill/competence,guider des employés,
+http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,developpeur,True,skill/competence,créer des modèles de données,"établir des modèles de données
+mettre en place des modèles de données
+développer des modèles de données
+créer un modèle de données
+concevoir des modèles de données
+créer des modèles informatiques"
+http://data.europa.eu/esco/skill/fc153ec6-1320-4f13-9158-ebde86c5303e,logistique,True,skill/competence,assurer la liaison avec les équipes de gestion logistique,
+http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8,developpeur,True,skill/competence,réaliser des ébauches,
+http://data.europa.eu/esco/skill/fc54bd7f-0c03-4fdd-af8c-5eb4021e716d,rh,True,skill/competence,s’identifier aux objectifs de l’entreprise,
+http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e,developpeur,True,skill/competence,concevoir une interface utilisateur,
+http://data.europa.eu/esco/skill/fd406035-5c82-4421-9692-08f991d91b3b,logistique,True,skill/competence,résoudre les problèmes opérationnels de transport,
+http://data.europa.eu/esco/skill/fde186df-c9c4-49f5-b2a5-d66adc7c43a5,logistique,False,skill/competence,négocier des conditions d'achat,
+http://data.europa.eu/esco/skill/fdf15b35-9028-4acb-bfd2-43f00a015cd9,"commercial, developpeur",False,skill/competence,utiliser un logiciel d'organisation personnelle,
+http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf,developpeur,False,skill/competence,identifier les risques de sécurité des TIC,"déterminer les risques de sécurité des TIC
+identifier les risques et menaces de sécurité des TIC
+modéliser les menaces informatiques
+identifier les risques de sécurité liés à l’utilisation des TIC
+évaluer les risques de sécurité des TIC
+détecter les risques de sécurité des TIC"
+http://data.europa.eu/esco/skill/fe1ec582-d63b-466c-9149-e7fc4fe93e22,logistique,True,knowledge,gestion des fournisseurs,
+http://data.europa.eu/esco/skill/fe29e658-7cad-4b70-a169-10a240ec0bef,logistique,True,skill/competence,travailler au sein d'une équipe logistique,
+http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13,commercial,True,skill/competence,réaliser une étude de marché,
+http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6,developpeur,False,knowledge,Scala,

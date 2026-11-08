@@ -18,3 +18,6 @@ __pycache__/
 # Système
 .DS_Store
 Thumbs.db
+
+*.egg-info/
+data/raw/esco/
