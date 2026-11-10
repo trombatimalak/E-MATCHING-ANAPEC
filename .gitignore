@@ -6,6 +6,9 @@ env/
 # Fichiers Python temporaires
 __pycache__/
 *.py[cod]
+*.log
+.pytest_cache/
+.coverage
 
 # Fichiers sensibles
 .env
