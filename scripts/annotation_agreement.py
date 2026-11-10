@@ -1,39 +1,49 @@
-"""Compare les annotations humaines aux labels provisoires et entre annotateurs."""
+"""Accord entre annotations humaines, et avec les labels provisoires."""
 
+import csv
 import sys
+from pathlib import Path
 
-import pandas as pd
+from ematching.annotation import agreement, confusion_matrix, read_labels
 
-from ematching.annotation import agreement, read_labels
-from ematching.data import PROCESSED_DIR
+PAIRS = Path(__file__).resolve().parents[1] / "data" / "processed" / "pairs.csv"
 
 
-def show(title: str, result: dict) -> None:
-    print(f"\n{title}")
-    for key, value in result.items():
-        print(f"  {key} : {round(value, 3) if isinstance(value, float) else value}")
+def read_silver() -> dict[str, int]:
+    with open(PAIRS, encoding="utf-8", newline="") as handle:
+        return {r["pair_id"]: int(r["silver_label"]) for r in csv.DictReader(handle)}
+
+
+def show(title: str, first: dict, second: dict, names: tuple[str, str]) -> None:
+    result = agreement(first, second)
+    print(f"\n=== {title} ===")
+    print(f"Paires comparées : {result['n']}")
+    print(f"Accord brut      : {result['accuracy']:.3f}")
+    print(f"Kappa            : {result['kappa']:.3f}")
+    print(f"Kappa pondéré    : {result['kappa_weighted']:.3f}")
+    print(f"\nLignes = {names[0]}, colonnes = {names[1]}")
+    for label, row in enumerate(confusion_matrix(first, second)):
+        print(f"  {label} : " + "  ".join(f"{count:4d}" for count in row))
 
 
 def main() -> None:
     if len(sys.argv) < 2:
-        sys.exit(
-            "Usage : python scripts/annotation_agreement.py fichier1.csv [fichier2.csv]"
-        )
-    pairs = pd.read_csv(PROCESSED_DIR / "pairs.csv").set_index("pair_id")
-    silver = pairs["silver_label"]
-
+        sys.exit("Usage : python scripts/annotation_agreement.py f1.csv [f2.csv]")
     first = read_labels(sys.argv[1])
-    show("Annotateur 1 vs labels provisoires", agreement(first, silver))
-    print()
-    print(
-        pd.crosstab(
-            first, silver.loc[first.index], rownames=["humain"], colnames=["provisoire"]
-        )
+    show(
+        "Annotateur 1 vs labels provisoires",
+        first,
+        read_silver(),
+        ("humain", "provisoire"),
     )
-
     if len(sys.argv) > 2:
         second = read_labels(sys.argv[2])
-        show("Annotateur 1 vs annotateur 2", agreement(first, second))
+        show(
+            "Annotateur 1 vs annotateur 2",
+            first,
+            second,
+            ("annotateur 1", "annotateur 2"),
+        )
 
 
 if __name__ == "__main__":

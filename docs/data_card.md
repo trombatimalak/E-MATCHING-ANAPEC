@@ -69,3 +69,8 @@ humaines, logistique. Langue : français.
 - Certaines compétences ESCO sont génériques (par exemple « gérer les budgets ») et
   partagées entre métiers.
 - Données ANAPEC non disponibles à ce jour : perspective.
+- Fiabilité des labels provisoires : sur 100 paires annotées par un seul annotateur
+  (l'auteure des règles), accord de 82 % (kappa 0,72 ; kappa pondéré 0,86), sans
+  désaccord extrême (0 contre 2). Les écarts portent sur la frontière
+  « partiel / pertinent », car la règle ignore la couverture des compétences.
+  Chiffre à confirmer avec un deuxième annotateur.
