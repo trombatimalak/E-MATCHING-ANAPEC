@@ -1,0 +1,11 @@
+# Pondérations APPRISES (scripts/tune_weights.py) — ne pas modifier à la main.
+# Régression logistique sur 1254 paires d'entraînement, labels provisoires, modèle e5-small.
+# Générées le 2026-11-19.
+
+[weights]
+education = 0.0235
+experience = 0.4075
+location = 0.0091
+nice_to_have = 0.161
+semantic = 0.0619
+skills = 0.3369

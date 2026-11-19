@@ -1,0 +1,12 @@
+# Pondérations du score de matching (moteur sémantique / hybride).
+# Modifiables sans toucher au code (exigence du CPS : paramétrage des règles).
+# Elles sont normalisées automatiquement (leur somme n'a pas besoin de faire 1).
+# Valeurs par défaut fixées à l'avance, avant toute évaluation.
+
+[weights]
+skills = 0.45        # part des compétences requises couvertes (identiques ou équivalentes)
+semantic = 0.20      # proximité globale des compétences du profil et de l'offre
+experience = 0.15    # expérience suffisante par rapport au minimum demandé
+education = 0.10     # niveau d'études suffisant
+location = 0.05      # même ville
+nice_to_have = 0.05  # compétences souhaitées (non obligatoires)
