@@ -1,0 +1,161 @@
+term,esco_label,note
+# Fichier modifiable : un terme courant des CV -> une compétence ESCO du référentiel.,,
+# C'est la « matrice de correspondance » demandée par le CPS. Les lignes commençant par # sont ignorées.,,
+# Attention aux noms trop généraux : ils peuvent désigner le sujet d'un projet et non une compétence. « audit », « bilan » et « facturation » seuls ont produit de fausses compétences sur un vrai CV : remplacés par des formulations précises.,,
+# --- Transversal (bureautique) ---,,
+excel,utiliser un logiciel de tableur,outil
+tableur,utiliser un logiciel de tableur,
+google sheets,utiliser un logiciel de tableur,outil
+tableaux croisés dynamiques,utiliser un logiciel de tableur,
+pack office,utiliser des systèmes bureautiques,outil
+microsoft office,utiliser des systèmes bureautiques,outil
+word,utiliser un logiciel de traitement de texte,outil
+reporting,présenter des rapports,
+tableaux de bord,présenter des rapports,
+# --- Développeur ---,,
+api rest,services web,
+rest api,services web,anglais
+apis rest,services web,
+rest apis,services web,anglais
+web services,services web,anglais
+microservices,services web,
+react,JavaScript Framework,outil
+react.js,JavaScript Framework,outil
+angular,JavaScript Framework,outil
+vue.js,JavaScript Framework,outil
+jquery,JavaScript Framework,outil
+node.js,JavaScript,outil
+tests unitaires,exécuter des tests de logiciel,
+unit testing,exécuter des tests de logiciel,anglais
+unit tests,exécuter des tests de logiciel,anglais
+tests automatisés,exécuter des tests de logiciel,
+pytest,exécuter des tests de logiciel,outil
+junit,exécuter des tests de logiciel,outil
+tests d'intégration,exécuter un test d’intégration,
+integration testing,exécuter un test d’intégration,anglais
+débogage,déboguer un logiciel,
+debugging,déboguer un logiciel,anglais
+correction de bugs,déboguer un logiciel,
+correction d'anomalies,déboguer un logiciel,
+git,outils de gestion de configuration logicielle,outil
+github,outils de gestion de configuration logicielle,outil
+gitlab,outils de gestion de configuration logicielle,outil
+versionnement,outils de gestion de configuration logicielle,
+gestion des versions,outils de gestion de configuration logicielle,
+bases de données,systèmes de gestion de base de données,
+base de données,systèmes de gestion de base de données,
+sql server,SQL Server,outil
+oracle,systèmes de gestion de base de données,outil
+mongodb,NoSQL,outil
+requêtes sql,SQL,
+interfaces utilisateur,concevoir une interface utilisateur,
+interface utilisateur,concevoir une interface utilisateur,
+ux/ui,concevoir une interface utilisateur,
+ui/ux,concevoir une interface utilisateur,
+ux design,concevoir une interface utilisateur,anglais
+html5,programmation web,
+développement web,programmation web,
+sites web,programmation web,
+applications web,programmation web,
+# --- Comptable ---,,
+sage,utiliser des systèmes de comptabilité,outil
+sage comptabilité,utiliser des systèmes de comptabilité,outil
+ciel compta,utiliser des systèmes de comptabilité,outil
+logiciel comptable,utiliser des systèmes de comptabilité,
+erp,utiliser des systèmes de comptabilité,outil
+tva,législation fiscale,
+déclarations fiscales,législation fiscale,
+fiscalité,législation fiscale,
+impôt sur les sociétés,législation fiscale,
+paie,gérer des rapports de paie,
+bulletins de paie,gérer des rapports de paie,
+sage paie,gérer des rapports de paie,outil
+saisie comptable,écritures comptables,
+imputations comptables,effectuer des imputations comptables,
+facturation clients,établir des factures,
+gestion de la facturation,établir des factures,
+factures,établir des factures,
+bilan comptable,réaliser des opérations d’établissement de bilan,
+bilan annuel,réaliser des opérations d’établissement de bilan,
+bilans comptables,réaliser des opérations d’établissement de bilan,
+clôture des comptes,réaliser des opérations d’établissement de bilan,
+clôture annuelle,réaliser des opérations d’établissement de bilan,
+rapprochements bancaires,gérer les comptes bancaires d’une entreprise,
+rapprochement bancaire,gérer les comptes bancaires d’une entreprise,
+comptes clients,suivre des comptes débiteurs,
+relances clients,suivre des comptes débiteurs,
+recouvrement,effectuer des activités de recouvrement,
+missions d'audit,réaliser des audits financiers,
+audit comptable,réaliser des audits financiers,
+trésorerie,système de gestion de trésorerie,
+budget,gérer les budgets,
+# --- Commercial ---,,
+prospection,prospecter de nouveaux clients,
+prospection commerciale,prospecter de nouveaux clients,
+démarchage,prospecter de nouveaux clients,
+conclusion de contrats,conclure des accords commerciaux,
+closing,conclure des accords commerciaux,anglais
+négociation commerciale,négocier avec des parties prenantes,
+fidélisation,entretenir des relations avec des clients,
+fidélisation client,entretenir des relations avec des clients,
+relation client,gestion de la relation client,
+suivi client,mettre en œuvre le suivi des clients,
+suivi après-vente,mettre en œuvre le suivi des clients,
+service après-vente,mettre en œuvre le suivi des clients,
+crm,utiliser un logiciel de gestion de la relation avec le client,outil
+salesforce,utiliser un logiciel de gestion de la relation avec le client,outil
+hubspot,utiliser un logiciel de gestion de la relation avec le client,outil
+rapports de vente,produire des rapports de vente,
+reporting des ventes,produire des rapports de vente,
+reporting commercial,produire des rapports de vente,
+vente terrain,faire de la vente active,
+devis,répondre à des demandes de devis,
+étude de marché,réaliser une étude de marché,
+# --- Maintenance ---,,
+maintenance préventive,programmer la maintenance régulière de machines,
+maintenance curative,effectuer un dépannage,
+dépannage,effectuer un dépannage,
+diagnostic de pannes,résoudre des dysfonctionnements d’équipements,
+diagnostic des pannes,résoudre des dysfonctionnements d’équipements,
+pannes,résoudre des dysfonctionnements d’équipements,
+gmao,programmer la maintenance régulière de machines,outil
+lecture de plans,lire des plans standard,
+schémas électriques,lire des plans standard,
+habilitation électrique,réglementation sur la sécurité électrique,
+consignation,réglementation sur la sécurité électrique,
+sécurité électrique,réglementation sur la sécurité électrique,
+électromécanique,mécanique,
+automatisme,technologie de l’automatisation,
+automates programmables,technologie de l’automatisation,
+comptes rendus d'intervention,rédiger des rapports techniques,
+rapports d'intervention,rédiger des rapports techniques,
+# --- Ressources humaines ---,,
+recrutement,recruter des employés,
+sourcing,recruter des employés,
+présélection des candidatures,recruter des employés,
+entretiens,interviewer des gens,
+conduite des entretiens,interviewer des gens,
+entretiens d'embauche,interviewer des gens,
+gestion administrative du personnel,assurer une gestion administrative professionnelle,
+administration du personnel,assurer une gestion administrative professionnelle,
+intégration des nouveaux collaborateurs,présenter des nouveaux employés,
+onboarding,présenter des nouveaux employés,anglais
+code du travail,droit du travail,
+confidentialité,respecter la confidentialité,
+plan de formation,former le personnel,
+contrats de travail,négocier des contrats de travail,
+# --- Logistique ---,,
+inventaire,veiller à la précision du contrôle des stocks,
+inventaires,veiller à la précision du contrôle des stocks,
+wms,utiliser un système de gestion d’entrepôt,outil
+logiciel de gestion d'entrepôt,utiliser un système de gestion d’entrepôt,
+entrepôt,opérations d'entreposage,
+magasinage,opérations d'entreposage,
+préparation des commandes,opérations d'entreposage,
+préparation de commandes,opérations d'entreposage,
+stocks de l'entrepôt,gérer les stocks d’un entrepôt,
+réapprovisionnement,contrôler des seuils de réapprovisionnement,
+expéditions,suivre les expéditions,
+supply chain,gestion de la chaîne d’approvisionnement,anglais
+chaîne logistique,gérer la chaîne logistique,
+approvisionnement,commander des fournitures,

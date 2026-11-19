@@ -7,10 +7,19 @@ name = "ematching-anapec"
 version = "0.1.0"
 description = "Prototype E-Matching candidat-offre (capstone ANAPEC)"
 requires-python = ">=3.11"
-dependencies = ["pandas", "numpy", "scikit-learn"]
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "pdfplumber",  # lecture des CV PDF (licence MIT)
+    "python-docx>=1.1",  # lecture des CV Word
+    "rapidfuzz",  # comparaison approchée (fautes de frappe)
+]
 
 [project.optional-dependencies]
 dev = ["ruff", "black", "pytest"]
+# Embeddings (P2) : installe aussi PyTorch (plusieurs centaines de Mo).
+nlp = ["sentence-transformers>=3.0", "transformers>=4.51"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
